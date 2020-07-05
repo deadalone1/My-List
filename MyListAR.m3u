@@ -62,7 +62,8 @@ https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8?Playl
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="45084" tvg-name="Garage TV" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png", Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
-
+#EXTINF:-1,Canal Acequia
+http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
 
 
 
@@ -188,3 +189,46 @@ http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="100570" tvg-name="Telecreativa" tvg-logo="https://lh3.googleusercontent.com/-Gm_Ms3sI_Q4/XrYQujqJHII/AAAAAAAA0iw/dsg5W2kHZPAp1MDPFrwp7rwQ0DO12IdXACK8BGAsYHg/s0/2020-05-08.png", Telecreativa
 https://cdn2.zencast.tv:30443/telecreativa/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:0,NTV News24
+http://www.news24.jp/livestream/index.m3u8
+#EXTINF:0,GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
+
+#EXTINF:0,ウェザーニュース
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+
+#EXTINF:0,日本QVC Japan
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+
+#EXTINF:0,Japanet Channel DX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+#EXTINF:0,Shop Channel
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+
+
+
+#EXTINF:-1,NTV News24
+http://www.news24.jp/livestream/index.m3u8
+
+
+
+#EXTINF:-1, J1
+https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
+
+#EXTINF:-1, J2
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+
+#EXTINF:-1, J3
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+
+#EXTINF:-1, J4
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1, J5
+http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
+#EXTINF:-1, J6
+https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
+#EXTINF:-1, J7
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1, J8
+https://www.news24.jp/livestream/index.m3u8
