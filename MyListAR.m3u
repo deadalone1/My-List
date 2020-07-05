@@ -190,10 +190,10 @@ http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="100570" tvg-name="Telecreativa" tvg-logo="https://lh3.googleusercontent.com/-Gm_Ms3sI_Q4/XrYQujqJHII/AAAAAAAA0iw/dsg5W2kHZPAp1MDPFrwp7rwQ0DO12IdXACK8BGAsYHg/s0/2020-05-08.png", Telecreativa
 https://cdn2.zencast.tv:30443/telecreativa/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:0,NTV News24
-http://www.news24.jp/livestream/index.m3u8
-#EXTINF:0,GSTV
-https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
+#EXTINF:-1,NTV News24
+http://www.news24.jp/livestream/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8?PlaylistM3UCL
 
 #EXTINF:0,ウェザーニュース
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
