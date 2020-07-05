@@ -1,14 +1,16 @@
 #EXTM3U 
 
 
-
-#EXTINF:-1,TN
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593921581/ei/zfsAX5CHG52LobIP2Z6c2Ak/ip/190.122.213.181/id/wHn1_QVoXGM.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgEgdAiVi0oEvO_M7y2HHz8vtiOHLLm921FBQWfniZdY0CIC_nq3VdGLfXdi8clB7mhLoFZep2CZILyDHBm0tNe_2E/file/index.m3u8?PlaylistM3UCL
+#EXTINF:-1, NTV News24
+http://www.news24.jp/livestream/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="45089" tvg-name="Canal 26" tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png", Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, Cronica
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593930084/ei/BB0BX4mWCovGwwSwubuwAQ/ip/190.122.213.181/id/LrsE9A8Fh_A.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJTg32XYRNc_QwmwzQmEOQtewy9oGRj7wp5oKWxAxgL-AiAtsFtzaRHfV119n5tU8aH7c_Vn9WpTwvw8hH4T6Jj72A%3D%3D/file/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,TN
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593921581/ei/zfsAX5CHG52LobIP2Z6c2Ak/ip/190.122.213.181/id/wHn1_QVoXGM.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgEgdAiVi0oEvO_M7y2HHz8vtiOHLLm921FBQWfniZdY0CIC_nq3VdGLfXdi8clB7mhLoFZep2CZILyDHBm0tNe_2E/file/index.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1, La Nacion
@@ -189,6 +191,12 @@ http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="100570" tvg-name="Telecreativa" tvg-logo="https://lh3.googleusercontent.com/-Gm_Ms3sI_Q4/XrYQujqJHII/AAAAAAAA0iw/dsg5W2kHZPAp1MDPFrwp7rwQ0DO12IdXACK8BGAsYHg/s0/2020-05-08.png", Telecreativa
 https://cdn2.zencast.tv:30443/telecreativa/live/playlist.m3u8?PlaylistM3UCL
+
+
+
+
+
+
 
 #EXTINF:-1,NTV News24
 http://www.news24.jp/livestream/index.m3u8?PlaylistM3UCL
