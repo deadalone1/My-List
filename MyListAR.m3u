@@ -76,8 +76,7 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8?PlaylistM3UCL
 http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="80666" tvg-name="Telpin Canal 2" tvg-logo="https://lh3.googleusercontent.com/-ulhiusmLK5w/XjtA5Bi-zrI/AAAAAAAAvoI/A7OP1Flx4xM4g5VOMH9ZfUz7HrxtW3OMQCK8BGAsYHg/s0/2020-02-05.png", Telpin Canal 2
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="107313" tvg-name="Sicardi TV" tvg-logo="https://lh3.googleusercontent.com/-ZCgF1BmCKIw/Xv0NsKVkVlI/AAAAAAAA2ZY/A_W0oDbGNlgQn30-qgJYIBFpz9nCjpGGACK8BGAsYHg/s0/2020-07-01.jpg", Sicardi TV
-https://stmvideo2.livecastv.com/sicarditv/sicarditv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="102604" tvg-name="Rewind TV" tvg-logo="https://lh3.googleusercontent.com/-omQS0__XP3Y/XpaPAIUgKUI/AAAAAAAAx44/0NeiqUb_LHk4-Sffm0h1XASJZA9B3DRLwCK8BGAsYHg/s0/2020-04-14.png", Rewind TV
 https://5cf4a2c2512a2.streamlock.net:443/rewintv/rewintv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="107199" tvg-name="Classic Mix" tvg-logo="https://lh3.googleusercontent.com/-Zpt9Zz4lUE8/Xv0N7J3P1wI/AAAAAAAA2Zc/MTbwKn9C1gELbQ_biguhAYP1Ee2o1cBzQCK8BGAsYHg/s0/2020-07-01.png", Classic Mix
@@ -99,8 +98,6 @@ http://edge1.cl.grupoz.cl/cachipuntv/live/playlist.m3u8?PlaylistM3UCL
 https://edge1o.live.opencaster.com/caster/naxjaqigbpAm.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="101464" tvg-name="Net TV" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png", Net TV
 https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="100599" tvg-name="Aire de Santa Fe" tvg-logo="https://lh3.googleusercontent.com/-AC26znRmOW4/XrYIBNhD6kI/AAAAAAAA0g4/kn_aWJvt1cAU5lJDuPtnU75IFziaYiaygCK8BGAsYHg/s0/2020-05-08.png", Aire de Santa Fe
-https://stmv4.srvstm.com/aire/aire/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-id="100591" tvg-name="Canal 13 San Luis" tvg-logo="https://lh3.googleusercontent.com/-OjL9dr8Nbxs/XrYHbsMVLQI/AAAAAAAA0go/tu9e9HZM7vgLGbpEvDzOG74qycTAfW5QwCK8BGAsYHg/s0/2020-05-08.jpg", Canal 13 San Luis
@@ -151,8 +148,7 @@ https://inliveserver.com:1936/8546/8546/playlist.m3u8?PlaylistM3UCL
 https://59537faa0729a.streamlock.net/canal2tunuyan/canal2tunuyan/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="80300" tvg-name="Canal 7 Chubut" tvg-logo="https://lh3.googleusercontent.com/-dcR6LiSEM3o/XjtCwLNAomI/AAAAAAAAvow/p-uUGIkr-7ANc2E8PvDvRJE2lU4OZ3ExgCK8BGAsYHg/s0/2020-02-05.png", Canal 7 Chubut
 http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="80299" tvg-name="Canal 12 Madryn TV" tvg-logo="https://lh3.googleusercontent.com/-NNKwN__O6ow/XjtC-7aspzI/AAAAAAAAvo0/v09wOJBPPlUnV3i75aEZ-ffQbViAKoXJACK8BGAsYHg/s0/2020-02-05.png", Canal 12 Madryn TV
-https://59db7e671a1ad.streamlock.net/madryntv/madryntv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="80298" tvg-name="Canal U" tvg-logo="https://lh3.googleusercontent.com/-bhc1ryCQBss/XjtDRMLA6RI/AAAAAAAAvo8/A5WXhRqhV2EdFzBWINyyhUoqFK1eYWJmQCK8BGAsYHg/s0/2020-02-05.png", Canal U
 https://vcp.myplaytv.com:443/canalusrt/smil:canalusrt.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="80297" tvg-name="Canal 10" tvg-logo="https://lh3.googleusercontent.com/-1_p-RfF0oIo/XjtDhLIE25I/AAAAAAAAvpE/uzoG77Dzsp8PEzYtGkaBadawaE0ISWlywCK8BGAsYHg/s0/2020-02-05.png", Canal 10
@@ -161,8 +157,7 @@ https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8?Playl
 #EXTINF:-1 tvg-id="45085" tvg-name="Multivisión" tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png", Multivisión
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="45090" tvg-name="10 TV" tvg-logo="https://lh3.googleusercontent.com/-r9pTOW2gmVA/XjtE8bqfCBI/AAAAAAAAvpc/E3ROz7ebsbEv7jKDOenNcl2xZkyjdnoawCK8BGAsYHg/s0/2020-02-05.png", 10 TV
-http://streamingvideo.com.ar:1935/10tv/live/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="80277" tvg-name="Argentinisima Satelital" tvg-logo="https://lh3.googleusercontent.com/-J9YzUdbdH_A/XjtFGLCyIGI/AAAAAAAAvpg/KQIBzXLKRgADtpsPuf83H43jYfFeMNT4gCK8BGAsYHg/s0/2020-02-05.png", Argentinisima Satelital
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="80284" tvg-name="CN 24/7 Neuquen" tvg-logo="https://lh3.googleusercontent.com/-XAHrxHCDM7s/XjtFb5uwTDI/AAAAAAAAvpo/5p94Cjf1Um8P4waIXUAAVfX9T1x-TaeGQCK8BGAsYHg/s0/2020-02-05.png", CN 24/7 Neuquen
@@ -192,12 +187,23 @@ https://cdn2.zencast.tv:30443/telecreativa/live/playlist.m3u8?PlaylistM3UCL
 
 
 
+#EXTINF:-1,France 24 (ESP)
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
+#EXTINF:-1,Fashion TV Czech&Slovak
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Kplus.id" tvg-id="Kplus.id" tvg-logo="https://i.imgur.com/UEmiLNv.jpg?1" group-title="6-Entertainment",K-Plus [ID]
+http://210.210.155.35/uq2663/h/h08/01.m3u8K-Plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/O9TnnUE.png" group-title="Taiwan",奇妙电视
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+
+
 
 
 
 
 #EXTINF:-1,NTV News24
-http://www.news24.jp/livestream/index.m3u8?PlaylistM3UCL
+http://www.news24.jp/livestream/index.m3u8
+
 #EXTINF:-1,GSTV
 https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8?PlaylistM3UCL
 
@@ -208,33 +214,27 @@ http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 
 #EXTINF:0,Japanet Channel DX
-http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
 #EXTINF:0,Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-
-
-
-#EXTINF:-1,NTV News24
-http://www.news24.jp/livestream/index.m3u8
-
-
+#EXTINF:-1, WN
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 
 #EXTINF:-1, J1
 https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
 
-#EXTINF:-1, J2
-http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-
-#EXTINF:-1, J3
-http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
-
-#EXTINF:-1, J4
-http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-#EXTINF:-1, J5
-http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 #EXTINF:-1, J6
 https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
 #EXTINF:-1, J7
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#EXTINF:-1, J8
-https://www.news24.jp/livestream/index.m3u8
+
+#EXTINF:-1 tvg-id="channelnewsasia.id" tvg-logo="https://i.imgur.com/dbbIrHz.png?1" group-title="2-News",Channel NewsAsia
+http://210.210.155.35/uq2663/h/h29/01.m3u8NewsAsia
+
+#EXTINF:-1,MTV JAPAN
+http://122.155.180.8:5021/live/52
+#EXTINF:-1,group-title="Jepang"MUSIC JAPAN
+http://122.155.180.8:5021/live/495
+
+
+
