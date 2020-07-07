@@ -173,11 +173,38 @@ http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="100570" tvg-name="Telecreativa" tvg-logo="https://lh3.googleusercontent.com/-Gm_Ms3sI_Q4/XrYQujqJHII/AAAAAAAA0iw/dsg5W2kHZPAp1MDPFrwp7rwQ0DO12IdXACK8BGAsYHg/s0/2020-05-08.png", Telecreativa
 https://cdn2.zencast.tv:30443/telecreativa/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA",CPEtv La Pampa
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8
+#EXTINF:-1,Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF:-1,Holvoet TV 
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
 
 
 
+
+
+
+#EXTINF:-1 group-title="LATIN AMERICA",RT Español
+https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",MTV (Opt-1)
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",DW Español
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1 group-title="LATIN AMERICA",CGTN Español 
+http://livefr.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1,Entretenimiento:Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PYDahPc.png" group-title="ITALY",Rai 5
+http://b2everyrai-lh.akamaihd.net:80/i/rai5_1@182695/master.m3u8
+#EXTINF:-1,TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
 #EXTINF:-1,France 24 (ESP)
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K8J9Ssw.png" group-title="USA",World Fashion TV
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
+#EXTINF:-1,HDFashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
 #EXTINF:-1,Fashion TV Czech&Slovak
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Kplus.id" tvg-id="Kplus.id" tvg-logo="https://i.imgur.com/UEmiLNv.jpg?1" group-title="6-Entertainment",K-Plus [ID]
@@ -186,11 +213,19 @@ http://210.210.155.35/uq2663/h/h08/01.m3u8
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 tvg-id="channelnewsasia.id" tvg-logo="https://i.imgur.com/dbbIrHz.png?1" group-title="2-News",Channel NewsAsia
 http://210.210.155.35/uq2663/h/h29/01.m3u8
+#EXTINF:-1,TVBS新聞台 
+http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
+#EXTINF:-1,澳門資訊 
+http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 
 
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mBTe5bW.png" group-title="24/7 WORLD NEWS",NHK World (JP)
+http://45.126.83.51/uq2663/h/h23/index.m3u8
 #EXTINF:-1,NTV News24
 http://www.news24.jp/livestream/index.m3u8
 
