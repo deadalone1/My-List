@@ -1,32 +1,14 @@
 #EXTM3U 
 
 
-
-
 #EXTINF:-1 tvg-id="45089" tvg-name="Canal 26" tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png", Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, Cronica
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593930084/ei/BB0BX4mWCovGwwSwubuwAQ/ip/190.122.213.181/id/LrsE9A8Fh_A.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJTg32XYRNc_QwmwzQmEOQtewy9oGRj7wp5oKWxAxgL-AiAtsFtzaRHfV119n5tU8aH7c_Vn9WpTwvw8hH4T6Jj72A%3D%3D/file/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,TN
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593946233/ei/GVwBX-DFHc605gTq5rHwAQ/ip/190.122.213.181/id/wHn1_QVoXGM.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgIebdw_YI7--mx6WPuU4omCpVhU4fnlU6KPLPLDiTaBACIAjBnfHsZT5WxfiW8KW-AyP6J-mbixqVCSvY9WGaIKDf/file/index.m3u8
-
-#EXTINF:-1, La Nacion
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593923958/ei/FgUBX93FBsfXwgT11bvADw/ip/190.122.213.181/id/pehKCVCBUWk.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAL4ZfI7YT8UjgCgNUqODh2Ga5mPW1fGPoCo2BwQY0fvuAiEAhb7x6ulOmyJNK1dJs3jMv3I95oTnxnVXzuRbfko289A%3D/file/index.m3u8?PlaylistM3UCL
-
 
 #EXTINF:-1 tvg-id="96281" tvg-name="TV Publica" tvg-logo="https://lh3.googleusercontent.com/-0K_G9JiAw-I/XkCUfNx8kmI/AAAAAAAAv8Y/eK0_8koGnZYLy58qtmUqW26VOZjRqqV8gCK8BGAsYHg/s0/2020-02-09.png", TV Publica
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Canal 7 Mendoza
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593928726/ei/thcBX-KuKOaw8gSK6JnoCg/ip/190.122.213.181/id/lkS8uElmC7s.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOsMG1bnFghHoWB02GtF9oO-Z1sff7VkSrK6W39VQFXvAiBIuqWsHwGzq1qc_uSwFY_frhL6z94jtyPet4kAGE3oqg%3D%3D/file/index.m3u8?PlaylistM3UCL
-
-
-
-
-#EXTINF:-1, C5N
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593928994/ei/whgBX4jMJ8SxwQTg6q2YDw/ip/190.122.213.181/id/DXuae_iYwwk.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIRGTXJ0nWgmb2fZWJ2sVdN2xBns54_s_ONknnKxqdHBAiEA5RCTkUwW0RiV2EHcwYssVeo6SI8qoNbYsiIy_5sMi_4%3D/file/index.m3u8
-
 
 
 
@@ -255,5 +237,32 @@ https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 
 
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/jasmintv.png" group-title="24/7 ADULT IPTV",Jasmin TV (SD)
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title="24/7 ADULT IPTV",Miami TV Latino
+http://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_b2592000.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title="24/7 ADULT IPTV",Miami TV Live
+http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",MILF
+http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1,REALITY KING
+http://188.35.9.26:5031/udp/058j
+
+#EXTINF:0,HUSTLER HD 
+http://188.35.9.26:2030/udp/047c
+
+#EXTINF:-1,ADULT| EMANUELLE XXX
+http://doubleagechanmain.com:80/123456/123456/12642
 
 
