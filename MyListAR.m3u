@@ -3,13 +3,10 @@
 
 #EXTINF:-1 tvg-id="45089" tvg-name="Canal 26" tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png", Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1, Cronica
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1593930084/ei/BB0BX4mWCovGwwSwubuwAQ/ip/190.122.213.181/id/LrsE9A8Fh_A.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJTg32XYRNc_QwmwzQmEOQtewy9oGRj7wp5oKWxAxgL-AiAtsFtzaRHfV119n5tU8aH7c_Vn9WpTwvw8hH4T6Jj72A%3D%3D/file/index.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-id="96281" tvg-name="TV Publica" tvg-logo="https://lh3.googleusercontent.com/-0K_G9JiAw-I/XkCUfNx8kmI/AAAAAAAAv8Y/eK0_8koGnZYLy58qtmUqW26VOZjRqqV8gCK8BGAsYHg/s0/2020-02-09.png", TV Publica
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8?PlaylistM3UCL
-
 
 
 #EXTINF:-1 tvg-id="101837" tvg-name="Telediario Televisión" tvg-logo="https://lh3.googleusercontent.com/-Gceq5SpfHb8/XrYRAGJeBUI/AAAAAAAA0i4/OHxya9wtX5kJC06MlqyfpUCl9M2azquDQCK8BGAsYHg/s0/2020-05-08.png", Telediario Televisión
@@ -262,7 +259,6 @@ http://188.35.9.26:5031/udp/058j
 #EXTINF:0,HUSTLER HD 
 http://188.35.9.26:2030/udp/047c
 
-#EXTINF:-1,EMANUELLE XXX
-http://doubleagechanmain.com:80/123456/123456/12642
+
 
 
