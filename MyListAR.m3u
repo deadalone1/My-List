@@ -320,6 +320,13 @@ https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
 
 
 
+
+
+#EXTINF:-1,VISIT-X TV HD (18+)
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DLEFDcv.png" group-title="XXX Adultos", Jasmin TV 
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
 #EXTINF:-1,Jasmin TV (SD)
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8?fluxuslust.m3u8
 
