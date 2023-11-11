@@ -34,86 +34,8 @@ http://livefr.cgtn.com/1000e/prog_index.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
 
 
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/O9TnnUE.png" group-title="Taiwan",奇妙电视
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1 tvg-id="channelnewsasia.id" tvg-logo="https://i.imgur.com/dbbIrHz.png?1" group-title="2-News",Channel NewsAsia
-http://210.210.155.35/uq2663/h/h29/01.m3u8
-#EXTINF:-1,TVBS新聞台 
-http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 #EXTINF:-1,澳門資訊 
 http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hoxvBkF.png" group-title="JAPAN",BS Asahi (New!)
-http://203.162.235.41:16914
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5TaUGiC.png" group-title="JAPAN",BS Fuji (New!)
-http://203.162.235.41:16911
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F8vUpjV.png" group-title="JAPAN",BS Japan (New!)
-http://203.162.235.41:16915
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UIWO2Jp.png" group-title="JAPAN",BS NTV (New!)
-http://203.162.235.41:16912
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OSxEPYU.png" group-title="JAPAN",BS TBS (New!)
-http://203.162.235.41:16913
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iNwIAso.png" group-title="JAPAN",Eisei Gekijo
-http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8?wowzasessionid=1009455217
-
-#EXTINF:-1 tvg-logo="http://www.himawari.co.jp/wp-content/uploads/channel_logo_cs_261ch.jpg" group-title="JAPAN",Family Gekijo
-http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8?wowzasessionid=2132394220
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fuwPytF.png" group-title="JAPAN",Fuji TV (New!)
-http://203.162.235.41:16904
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KQ8Mpvq.png" group-title="JAPAN",Golf Network (New!)
-http://203.162.235.41:16924
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ATIcNOc.png" group-title="JAPAN",GSTV
-https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Es2bzNQ.png" group-title="JAPAN",Gunma TV (New!)
-https://movie.mcas.jp/switcher/smil:mcas8.smil/chunklist_b1800000.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/300px-History_Logo.svg.png" group-title="JAPAN",History
-http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854395
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/57.jpg" group-title="JAPAN",Japanet Channel DX
-http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/967Ud6N.png" group-title="JAPAN",MBS (New!)
-http://203.162.235.41:16910
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jSJpXG0.png" group-title="JAPAN",NHK General (New!)
-http://203.162.235.41:16903
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YP30Eir.png" group-title="JAPAN",NHK World Premium (New!)
-http://203.162.235.41:16901
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/guVDfBx.png" group-title="JAPAN",NJPW World
-https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VVpj6AF.png" group-title="JAPAN",Nihon Eiga TV
-http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=1566329228
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fxYf9G0.png" group-title="JAPAN",Nippon TV (New!)
-http://203.162.235.41:16905
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pbs.twimg.com/profile_images/474926025768312833/TUAQCppN.png" group-title="JAPAN",NTV News24
-http://www.news24.jp/livestream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJhXY0I.png" group-title="JAPAN",QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
@@ -124,67 +46,14 @@ http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xz3JwGT.png" group-title="JAPAN",TB (Opt-1) (New!)
 http://main1.mov3.co/hls/main.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xz3JwGT.png" group-title="JAPAN",TBS (Opt-2) (New!)
-http://203.162.235.41:16907
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5B2ALs9.png" group-title="JAPAN",Tokyo MX 1 (New!)
-https://movie.mcas.jp/switcher/smil:mcas1.smil/chunklist_b1800000.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5B2ALs9.png" group-title="JAPAN",Tokyo MX 2 (New!)
-http://movie.mcas.jp/mcas/smil:mx2_prod.smil/chunklist_b364000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vgEnHX6.png" group-title="JAPAN",TV Tokyo (New!)
-http://203.162.235.41:16908
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tYZz5CC.png" group-title="JAPAN",WeatherNews
-http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.starcat.co.jp/ch/wp-content/uploads/2017/10/6-2.jpg" group-title="JAPAN",Wowow Cinefil
-http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mBTe5bW.png" group-title="24/7 WORLD NEWS",NHK World (JP)
-http://45.126.83.51/uq2663/h/h23/index.m3u8
-#EXTINF:-1,NTV News24
-http://www.news24.jp/livestream/index.m3u8
-
-#EXTINF:-1,GSTV
-https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8?PlaylistM3UCL
-
-#EXTINF:0,ウェザーニュース
-http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-
 #EXTINF:0,日本QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 
-#EXTINF:0,Japanet Channel DX
-http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
 #EXTINF:0,Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 
-#EXTINF:-1, J1
-https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
-
-#EXTINF:-1, J6
-https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
 #EXTINF:-1, J7
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/rXrSsiI.jpg" tvg-country="JP" tvg-url="" group-title="Religious",CGNTV Japan
-http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" tvg-country="JP" tvg-url="" group-title="Sport",New Japan Pro Wrestling World
-https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" tvg-country="JP" tvg-url="" group-title="Local",Tokyo MX2
-https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
-
-
-
 
 
 
@@ -192,18 +61,6 @@ https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
 
 #EXTINF:-1,VISIT-X TV HD (18+)
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DLEFDcv.png" group-title="XXX Adultos", Jasmin TV 
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-
-#EXTINF:-1,Jasmin TV (SD)
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8?fluxuslust.m3u8
-
-#EXTINF:-1,Miami TV Latino
-http://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_b2592000.m3u8?fluxuslust.m3u8
-
-#EXTINF:-1,Miami TV Live
-http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8?fluxuslust.m3u8
-
 #EXTINF:-1,MILF
 http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
 #EXTINF:-1,Big Tits
@@ -292,30 +149,14 @@ https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Priv� TV
 http://08139e2f.ottv.info/iptv/S9824PT3RW2E72/877/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Rainbow TV
-http://204.45.182.172:26789/i/ghjnvq5o/8c855daa/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mR1I8hE.png" group-title="24/7 ADULT IPTV",A3Bikini TV
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="24/7 ADULT IPTV",FTV Midnight Secrets (SD)
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
 #EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="24/7 ADULT IPTV",FTV Midnight Secrets (HD)
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-logo="http://images.zattic.com/logos/99c52002fd7a7a01f017/white/210x120.png" group-title="24/7 ADULT IPTV",Visit-X TV (Opt-1)
-http://stream.visit-x.tv/vxtv/live/playlist.m3u8?fluxuslust.m3u8
-
-
-
-
-
-
-#EXTINF:-1,REALITY KING
-http://188.35.9.26:5031/udp/058j
-
 #EXTINF:0,HUSTLER HD 
 http://188.35.9.26:2030/udp/047c
 
-#EXTINF:-1 tvg-id="103920" tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png", Locomotion
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8?PlaylistM3UCL
+
 
 
 
