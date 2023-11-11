@@ -61,6 +61,10 @@ https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 
 #EXTINF:-1,VISIT-X TV HD (18+)
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTV.us" tvg-logo="https://i.imgur.com/esK4CBZ.png" group-title="XXX",Miami TV (720p)
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1 tvg-id="BrazzersTVEurope.us" tvg-logo="https://i.imgur.com/95nP0Pb.png" group-title="XXX",Brazzers TV Europe (720p)
+https://cdn-main.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
 #EXTINF:-1,MILF
 http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
 #EXTINF:-1,Big Tits
