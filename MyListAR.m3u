@@ -1,20 +1,15 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="98885" tvg-name="Chacra TV" tvg-logo="https://lh3.googleusercontent.com/-pKI6d5kptYI/XnDCiQcHe0I/AAAAAAAAw_Y/pjVT7LGqYmswBIePrX9PeXozB4UncbPEgCK8BGAsYHg/s0/2020-03-17.png", Chacra TV
-https://s8.stweb.tv/chacra/live/playlist.m3u8?PlaylistM3UCL
-
+#EXTINF:-1 tvg-name="El Trece" tvg-logo="https://i.imgur.com/ZK7AQFg.png" tvg-id="ElTrece.ar" group-title="Argentina",El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-name="El Nueve" tvg-logo="https://i.imgur.com/EtcVSm4.png" tvg-id="ElNueve.ar" group-title="Argentina",El Nueve
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="81557" tvg-name="TDC TV Santa Fe" tvg-logo="https://lh3.googleusercontent.com/-yXbMzmQrlwc/Xjs7Bl2nHtI/AAAAAAAAvnU/lSMJ7dxyZL08lM3-UbyU4ckOLrd3HTwvQCK8BGAsYHg/s0/2020-02-05.png", TDC TV Santa Fe
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="80280" tvg-name="Canal 4 Jujuy" tvg-logo="https://lh3.googleusercontent.com/-mheC_82BX9k/XjtJQGo368I/AAAAAAAAvrE/3PLKryDEU3UT_TEYgef0tCaWxwj2OJtLQCK8BGAsYHg/s0/2020-02-05.png", Canal 4 Jujuy
-http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="80289" tvg-name="RTN" tvg-logo="https://lh3.googleusercontent.com/-E9zOAkKHOaw/XjtG9WkFKEI/AAAAAAAAvqQ/j2nVTLIMsZUsZfVliojEB5JU601yHtKQACK8BGAsYHg/s0/2020-02-05.png", RTN
 http://media.neuquen.gov.ar/rtn/television/chunklist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="80278" tvg-name="5TV" tvg-logo="https://lh3.googleusercontent.com/-CJRkMoy5oyo/XjtJ68jQGdI/AAAAAAAAvrU/Ne82ABVOrlAcpwkEeXNP64zTND_8D2h5QCK8BGAsYHg/s0/2020-02-05.png", 5TV
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1,TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
 
@@ -119,9 +114,41 @@ http://hbbz.chinashadt.com:2036/live/stream:bzxw.stream/playlist.m3u8
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-id="AsianCrush.us" tvg-logo="https://i.imgur.com/hW6z1RG.png" group-title="Entertainment",AsianCrush
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-name="Pervyy Muzykal'nyy BY Ⓢ" tvg-logo="https://i.imgur.com/7tFiG6S.jpg" tvg-id="FirstMusicChannel.by" group-title="Belarus",Pervyy Muzykal'nyy BY Ⓢ
+http://rtmp.one.by:1200
 
 
 
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/ABC_News_Channel.svg/640px-ABC_News_Channel.svg.png" tvg-id="ABCNews.au" group-title="Australia",ABC News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-name="BX1" tvg-logo="https://i.imgur.com/YjKqWru.png" tvg-id="BX1.be" group-title="Belgium",BX1
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1 tvg-name="ALL Sports Brasil" tvg-logo="https://i.imgur.com/wULpnYR.png" tvg-id="AllSports.br" group-title="Brazil",ALL Sports Brasil
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1 tvg-name="SBT Ⓢ" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" tvg-id="SBTNacional.br" group-title="Brazil",SBT Ⓢ
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="La7" tvg-logo="https://i.imgur.com/F90mpSa.png" tvg-id="La7.it" group-title="Italy",La7
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
+#EXTINF:-1 tvg-name="12 Tv Parma" tvg-logo="https://i.imgur.com/xnUgx6b.png" tvg-id="12TVParma.it" group-title="Italy",12 Tv Parma
+https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="Canale 21" tvg-logo="https://i.imgur.com/mU6Cq89.png" tvg-id="Canale21.it" group-title="Italy",Canale 21
+https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/playlist.m3u8
+#EXTINF:-1 tvg-name="Canale 7" tvg-logo="https://i.imgur.com/9cuOLCn.png" group-title="Italy",Canale 7
+http://wms.shared.streamshow.it:80/canale7/canale7/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="Donna TV Ⓢ" tvg-logo="https://i.imgur.com/Aa1Abme.png" tvg-id="DonnaTV.it" group-title="Italy",Donna TV Ⓢ
+https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
 
 
 
@@ -147,20 +174,16 @@ http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/243/index.m3u8
 https://cdn-main.lolokoko.tv/DorcelTV.stream/playlist.m3u8
 #EXTINF:-1,Dorcel Club
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6197/index.m3u8
+#EXTINF:-1,BRAZZERS
+http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6182/index.m3u8
+#EXTINF:-1,Private HD
+http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6245/index.m3u8
+#EXTINF:-1,Reality Kings HD
+http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6247/index.m3u8
 #EXTINF:-1 tvg-id="EroXXX.nl" tvg-logo="https://i.imgur.com/sc11PtR.png" group-title="XXX",EroXXX (720p)
 https://cdn-main.lolokoko.tv/Eroxxx.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="EroX.nl" tvg-logo="https://i.imgur.com/B9Fz9Yr.png" group-title="XXX",EroX (720p)
 https://cdn-main.lolokoko.tv/Eroxx.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Olala.ru" tvg-logo="https://i.imgur.com/6aOmZs4.png" group-title="XXX",O-la-la! (576p)
-http://31.148.48.15/O-la-la/index.m3u8
-#EXTINF:-1 tvg-id="Babestation24.ch" tvg-logo="https://i.imgur.com/DNJP1gi.png" group-title="XXX",Babestation24 (720p)
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
-#EXTINF:-1,VISIT-X TV HD (18+)
-http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="VisitXTV.nl" tvg-logo="https://i.imgur.com/avtSqUu.png" group-title="XXX",Visit-X TV (720p)
-https://stream.visit-x.tv/vxtv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="PlayboyTV.us" tvg-logo="https://i.imgur.com/clpxgYh.png" group-title="XXX",Playboy TV (1080p)
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
 
 
@@ -292,14 +315,17 @@ http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6223/index.m3u8
 #EXTINF:-1,Japan HDV
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6225/index.m3u8
 
+#EXTINF:-1,Little Asians HD
+http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6230/index.m3u8
+
+#EXTINF:-1,Banana Fever
+http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/12168/index.m3u8
+
 #EXTINF:-1,Lesbea
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6227/index.m3u8
 
 #EXTINF:-1,Lethal Hardcore
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6229/index.m3u8
-
-#EXTINF:-1,Little Asians HD
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6230/index.m3u8
 
 #EXTINF:-1,MetArt HD
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6233/index.m3u8
@@ -312,6 +338,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6239/index.m3u8
 
 #EXTINF:-1,Pink Erotic 3
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6240/index.m3u8
+
+#EXTINF:-1,Pink Erotic 4
+http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6241/index.m3u8
 
 #EXTINF:-1,Family Swap
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/12155/index.m3u8
@@ -334,6 +363,44 @@ http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/12105/index.m3u8
 #EXTINF:-1,VF Cartoon 18+
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/11117/index.m3u8
 
+#EXTINF:-1,Lust Cinema
+http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6232/index.m3u8
+
+#EXTINF:-1,Public Agent
+http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6246/index.m3u8
+
+#EXTINF:-1,Sex With Muslims
+http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6252/index.m3u8
+
+#EXTINF:-1,SINematica
+http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6255/index.m3u8
+
+#EXTINF:-1,Tiny4K
+http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6258/index.m3u8
+
+#EXTINF:-1,True Amateurs
+http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6260/index.m3u8
+
+#EXTINF:-1,Tushy HD
+http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6261/index.m3u8
+
+#EXTINF:-1,TushyRAW
+http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6262/index.m3u8
+
+#EXTINF:-1,Vixen HD
+http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6265/index.m3u8
+
+#EXTINF:-1,White Boxxx
+http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6267/index.m3u8
+
+#EXTINF:-1,Wicked
+http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6268/index.m3u8
+
+#EXTINF:-1,Xpanded TV
+http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6269/index.m3u8
+
+#EXTINF:-1,KinoXXX
+http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/11052/index.m3u8
 
 
 
@@ -343,20 +410,32 @@ http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/11117/index.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="Olala.ru" tvg-logo="https://i.imgur.com/6aOmZs4.png" group-title="XXX",O-la-la! (576p)
+http://31.148.48.15/O-la-la/index.m3u8
+#EXTINF:-1 tvg-id="Babestation24.ch" tvg-logo="https://i.imgur.com/DNJP1gi.png" group-title="XXX",Babestation24 (720p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
 #EXTINF:-1, Babestation 24
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-#EXTINF:-1,BRAZZERS
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6182/index.m3u8
+#EXTINF:-1,VISIT-X TV HD (18+)
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="VisitXTV.nl" tvg-logo="https://i.imgur.com/avtSqUu.png" group-title="XXX",Visit-X TV (720p)
+https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="PlayboyTV.us" tvg-logo="https://i.imgur.com/clpxgYh.png" group-title="XXX",Playboy TV (1080p)
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1, Кино 18+
 https://autopilot.catcast.tv/content/40381/index.m3u8
 
