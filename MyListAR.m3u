@@ -10,10 +10,7 @@ https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="80289" tvg-name="RTN" tvg-logo="https://lh3.googleusercontent.com/-E9zOAkKHOaw/XjtG9WkFKEI/AAAAAAAAvqQ/j2nVTLIMsZUsZfVliojEB5JU601yHtKQACK8BGAsYHg/s0/2020-02-05.png", RTN
 http://media.neuquen.gov.ar/rtn/television/chunklist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="80278" tvg-name="5TV" tvg-logo="https://lh3.googleusercontent.com/-CJRkMoy5oyo/XjtJ68jQGdI/AAAAAAAAvrU/Ne82ABVOrlAcpwkEeXNP64zTND_8D2h5QCK8BGAsYHg/s0/2020-02-05.png", 5TV
-http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,TLX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
+
 
 
 
@@ -149,8 +146,7 @@ http://wms.shared.streamshow.it:80/canale7/canale7/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Donna TV Ⓢ" tvg-logo="https://i.imgur.com/Aa1Abme.png" tvg-id="DonnaTV.it" group-title="Italy",Donna TV Ⓢ
-https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
+
 
 
 
@@ -162,6 +158,8 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mi
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:-1 tvg-id="BrazzersTVEurope.us" tvg-logo="https://i.imgur.com/95nP0Pb.png" group-title="XXX",Brazzers TV Europe (720p)
 https://cdn-main.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
+#EXTINF:-1,BRAZZERS
+http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6182/index.m3u8
 #EXTINF:-1 tvg-id="HustlerHD.nl" tvg-logo="https://i.imgur.com/41Ej2io.png" group-title="XXX",Hustler HD (720p)
 https://cdn-main.lolokoko.tv/HUSTLER.stream/chunks.m3u8
 #EXTINF:-1,DE Blue Hustler
@@ -176,29 +174,26 @@ http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/20025/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/242/index.m3u8
 #EXTINF:-1 tvg-id="PrivateTVHD.nl" tvg-logo="https://i.imgur.com/89E8Ev2.png" group-title="XXX",Private TV HD (720p)
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/243/index.m3u8
-#EXTINF:-1 tvg-id="DorcelTV.nl" tvg-logo="https://i.imgur.com/RkzyjEd.png" group-title="XXX",Dorcel TV (720p)
-https://cdn-main.lolokoko.tv/DorcelTV.stream/playlist.m3u8
-#EXTINF:-1,DORCEL XXX TV
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/12132/index.m3u8
-#EXTINF:-1,Dorcel Club
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6197/index.m3u8
-#EXTINF:-1,BRAZZERS
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6182/index.m3u8
 #EXTINF:-1,Private HD
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6245/index.m3u8
-#EXTINF:-1,Reality Kings HD
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6247/index.m3u8
-#EXTINF:-1,RK TV
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6249/index.m3u8
-#EXTINF:-1,RK Prime
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6248/index.m3u8
 #EXTINF:-1,Naughty America
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6237/index.m3u8
 #EXTINF:-1,Vivid Red HD
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/2162/index.m3u8
 #EXTINF:-1,Bang Bros HD
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6173/index.m3u8
-
+#EXTINF:-1 tvg-id="DorcelTV.nl" tvg-logo="https://i.imgur.com/RkzyjEd.png" group-title="XXX",Dorcel TV (720p)
+https://cdn-main.lolokoko.tv/DorcelTV.stream/playlist.m3u8
+#EXTINF:-1,DORCEL XXX TV
+http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/12132/index.m3u8
+#EXTINF:-1,Dorcel Club
+http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6197/index.m3u8
+#EXTINF:-1,Reality Kings HD
+http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6247/index.m3u8
+#EXTINF:-1,RK TV
+http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6249/index.m3u8
+#EXTINF:-1,RK Prime
+http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6248/index.m3u8
 
 
 
@@ -244,9 +239,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6196/index.m3u8
 
 #EXTINF:-1,Dusk
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6198/index.m3u8
-
-#EXTINF:-1,Venus
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6284/index.m3u8
 
 #EXTINF:-1,Cum Louder
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6189/index.m3u8
@@ -528,17 +520,8 @@ http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6166/index.m3u8
 #EXTINF:-1,Blacked HD
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6178/index.m3u8
 
-#EXTINF:-1,Cum Louder
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6189/index.m3u8
-
-#EXTINF:-1,Cum4k
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6190/index.m3u8
-
 #EXTINF:-1,Dusk
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6198/index.m3u8
-
-#EXTINF:-1,FemJoy
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6212/index.m3u8
 
 #EXTINF:-1,Hard X
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6218/index.m3u8
@@ -583,6 +566,8 @@ http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6280/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/12135/index.m3u8
 #EXTINF:-1,DE Playboy Europe
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/20026/index.m3u8
+#EXTINF:-1,Venus
+http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6284/index.m3u8
 #EXTINF:-1 tvg-id="Olala.ru" tvg-logo="https://i.imgur.com/6aOmZs4.png" group-title="XXX",O-la-la! (576p)
 http://31.148.48.15/O-la-la/index.m3u8
 #EXTINF:-1 tvg-id="Babestation24.ch" tvg-logo="https://i.imgur.com/DNJP1gi.png" group-title="XXX",Babestation24 (720p)
@@ -609,11 +594,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/11117/index.m3u8
 
 
 
-
-
-
-#EXTINF:-1, Кино 18+
-https://autopilot.catcast.tv/content/40381/index.m3u8
 
 
 
@@ -650,20 +630,14 @@ http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
 http://live.redtraffic.xyz/hardcore.m3u8?fluxuslust.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Latina
 http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Lesbian
-http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="24/7 RED TRAFFIC",Threesome
 http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
 #EXTINF:-1 group-title="22/7 DEWASA",BBW
 http://cdn.adultiptv.net/smoking.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Live Cams
-http://cdn.adultiptv.net/livecams.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Big Tits
 http://cdn.adultiptv.net/bigtits.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Blonde
 http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Blowjob
-http://cdn.adultiptv.net/blowjob.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Brunette
 http://cdn.adultiptv.net/brunette.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Compilation
