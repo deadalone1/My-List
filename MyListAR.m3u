@@ -156,6 +156,8 @@ https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
 #EXTINF:-1 tvg-id="MiamiTV.us" tvg-logo="https://i.imgur.com/esK4CBZ.png" group-title="XXX",Miami TV (720p)
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTV.us" tvg-logo="https://i.imgur.com/esK4CBZ.png" group-title="XXX",MiamiTVJennyForYou
+https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/playlist.m3u8
 #EXTINF:-1 tvg-id="BrazzersTVEurope.us" tvg-logo="https://i.imgur.com/95nP0Pb.png" group-title="XXX",Brazzers TV Europe (720p)
 https://cdn-main.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
 #EXTINF:-1,BRAZZERS
