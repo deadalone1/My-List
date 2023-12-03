@@ -15,7 +15,20 @@ http://media.neuquen.gov.ar/rtn/television/chunklist.m3u8?PlaylistM3UCL
 
 
 
-
+#EXTINF:-1 group-title="JAPAN" tvg-id="tvasahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TV Asahi
+http://asia.vthanhtivi.pw/TV_Asahi/index.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G 
+http://asia.vthanhtivi.pw/NHK_G/index.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK E
+http://asia.vthanhtivi.pw/NHK_E/index.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Japanese_Broadcasting_System_logo_2020.svg/2560px-Japanese_Broadcasting_System_logo_2020.svg.png", TBS 
+http://asia.vthanhtivi.pw/TBS/index.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-id="fujitv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", Fuji TV
+http://asia.vthanhtivi.pw/Fuji_TV/index.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11
+http://asia.vthanhtivi.pw/BS11/index.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X
+http://asia.vthanhtivi.pw/AT-X/index.m3u8
 
 
 #EXTINF:-1 tvg-id="NHKBS1.jp" tvg-logo="https://i.imgur.com/8qUZ2KR.png" group-title="General",NHK BS1 (720p)
@@ -158,6 +171,12 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mi
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:-1 tvg-id="MiamiTV.us" tvg-logo="https://i.imgur.com/esK4CBZ.png" group-title="XXX",MiamiTVJennyForYou
 https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/playlist.m3u8
+#EXTINF:-1,Miami TV Mexico
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+#EXTINF:-1,Desire
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1,Pure Taboo
+http://78.47.224.234/puretaboo/index.m3u8
 #EXTINF:-1 tvg-id="BrazzersTVEurope.us" tvg-logo="https://i.imgur.com/95nP0Pb.png" group-title="XXX",Brazzers TV Europe (720p)
 https://cdn-main.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
 #EXTINF:-1,BRAZZERS
