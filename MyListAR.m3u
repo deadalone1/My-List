@@ -134,9 +134,36 @@ http://edge.vthanhtivi.pw/K_SPORT1/index.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyK+
 http://edge.vthanhtivi.pw/K_SPORT2/index.m3u8
 
-
-
-
+#EXTINF:-1,МАТЧ ПРЕМЬЕР HD Russia 
+https://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1,МАТЧ Футбол 3 HD 
+http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1,Silk 1 HD 🇬🇪
+https://tbs01-edge11.itdc.ge/silksport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SPORT18
+http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
+#EXTINF:-1,ESPN Brasil
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/19059/index.m3u8
+#EXTINF:-1,TNT SPORTS1 Brazil
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1,TNT SPORTS2 Brazil
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1,TNT SPORTS4 Brazil
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1,ARAB CHANNEL 1 Saudi Arabia
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1,Eleven HD PL
+http://ua3.iptv.monster/play/1903/350B326FB34F4B8/video.m3u8
+#EXTINF:-1,TUDN Mexico
+https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
+#EXTINF:-1,Canal+ Sport HD FR | France
+http://77.72.23.28/iptv/V5ENSYN9WCXBDW/2502/index.m3u8
+#EXTINF:-1,BeIN Sports Haber FHD TR | Turkey
+http://77.72.23.28/iptv/MNPBNDKVDKX8G9/6939/index.m3u8
+#EXTINF:-1,Sky Sport News HD DE | Germany
+http://77.72.23.28/iptv/WTRMLWF6MHW5NG/2477/index.m3u8
+#EXTINF:-1,PL Eleven Sports 3 HD
+http://77.72.23.28/iptv/SYBA4CKW5FBV5F/2533/index.m3u8
 
 
 
