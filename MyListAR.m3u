@@ -50,6 +50,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bstvtokyo" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tokyo-jp.png", BS TV Tokyo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
+#EXTINF:0,TV Tokyo
+http://203.162.235.41:19098
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="wowowprime" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png", WOWOW Prime  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="wowowlive" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png", WOWOW Live  
@@ -75,6 +77,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
 
 
 
+#EXTINF:0,Tokushoutsu
+https://amg00163-shoutfactory-tokushoutsu-dmr-c1irg.amagi.tv/playlist/amg00163-shoutfactory-tokushoutsu-dmr/playlist.m3u8
 #EXTINF:0,日本QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:0,Shop Channel
@@ -161,7 +165,9 @@ https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion TV
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MiamiTV.us" tvg-logo="https://i.imgur.com/esK4CBZ.png" group-title="XXX",Miami TV (720p)
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB3131/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTV.us" tvg-logo="https://i.imgur.com/esK4CBZ.png" group-title="XXX",Miami TV Latino (720p)
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
 #EXTINF:-1 tvg-id="MiamiTV.us" tvg-logo="https://i.imgur.com/esK4CBZ.png" group-title="XXX",MiamiTVJennyForYou
 https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/playlist.m3u8
 #EXTINF:-1,Miami TV Mexico
@@ -170,6 +176,8 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 https://cdn-main.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
 #EXTINF:-1,BRAZZERS
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6182/index.m3u8
+#EXTINF:-1,BRAZZERS extra
+http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6181/index.m3u8
 #EXTINF:-1 tvg-id="HustlerHD.nl" tvg-logo="https://i.imgur.com/41Ej2io.png" group-title="XXX",Hustler HD (720p)
 https://cdn-main.lolokoko.tv/HUSTLER.stream/chunks.m3u8
 #EXTINF:-1,DE Blue Hustler
@@ -400,14 +408,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6281/index.m3u8
 #EXTINF:-1,Sexy Hot
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6282/index.m3u8
 
-#EXTINF:-1,XY Max HD
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6286/index.m3u8
-
-#EXTINF:-1,XY Mix HD
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6287/index.m3u8
-
-#EXTINF:-1,XY Plus HD
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6288/index.m3u8
 
 #EXTINF:-1,Erotic
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6289/index.m3u8
@@ -500,6 +500,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/18076/index.m3u8
 #EXTINF:-1,Kinoshka Adult HD
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/18060/index.m3u8
 
+#EXTINF:-1,Rouge TV
+http://edge13.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+
 #EXTINF:-1,Eromania 4K
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/10049/index.m3u8
 
@@ -542,10 +545,20 @@ http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/12137/index.m3u8
 #EXTINF:-1,21 naturals
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/12169/index.m3u8
 
+#EXTINF:-1,Daughter Swap
+http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6191/index.m3u8
 
 
 
 
+#EXTINF:-1,XY Max HD
+http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6286/index.m3u8
+
+#EXTINF:-1,XY Mix HD
+http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6287/index.m3u8
+
+#EXTINF:-1,XY Plus HD
+http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6288/index.m3u8
 
 #EXTINF:-1,Kira_sexxx
 https://edge-hls.doppiocdn.com/hls/28602377/master/28602377.m3u8
