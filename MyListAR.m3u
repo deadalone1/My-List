@@ -4,24 +4,10 @@
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 
-
-
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo 
-http://asia.vthanhtivi.pw/TV_Tokyo/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="tvasahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TV Asahi
-http://asia.vthanhtivi.pw/TV_Asahi/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G 
-http://asia.vthanhtivi.pw/NHK_G/index.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G Osaka
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
 #EXTINF:-1 group-title="JAPAN" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK E
 http://asia.vthanhtivi.pw/NHK_E/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Japanese_Broadcasting_System_logo_2020.svg/2560px-Japanese_Broadcasting_System_logo_2020.svg.png", TBS 
-http://asia.vthanhtivi.pw/TBS/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="fujitv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", Fuji TV
-http://asia.vthanhtivi.pw/Fuji_TV/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11
-http://asia.vthanhtivi.pw/BS11/index.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhkbs1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png", NHK BS1  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
 #EXTINF:-1 group-title="JAPAN" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X
@@ -97,10 +83,7 @@ https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/am
 
 
 
-#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/ABC_News_Channel.svg/640px-ABC_News_Channel.svg.png" tvg-id="ABCNews.au" group-title="Australia",ABC News
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-name="BX1" tvg-logo="https://i.imgur.com/YjKqWru.png" tvg-id="BX1.be" group-title="Belgium",BX1
-https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+
 #EXTINF:-1 tvg-name="SBT Ⓢ" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" tvg-id="SBTNacional.br" group-title="Brazil",SBT Ⓢ
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="La7" tvg-logo="https://i.imgur.com/F90mpSa.png" tvg-id="La7.it" group-title="Italy",La7
@@ -110,17 +93,11 @@ https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/p
 #EXTINF:-1 tvg-name="Canale 7" tvg-logo="https://i.imgur.com/9cuOLCn.png" group-title="Italy",Canale 7
 http://wms.shared.streamshow.it:80/canale7/canale7/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - MyK+
-http://edge.vthanhtivi.pw/K_SPORT1/index.m3u8
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyK+
-http://edge.vthanhtivi.pw/K_SPORT2/index.m3u8
 
 #EXTINF:-1,МАТЧ ПРЕМЬЕР HD Russia 
 https://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1,МАТЧ Футбол 3 HD 
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1,Silk 1 HD 🇬🇪
-https://tbs01-edge11.itdc.ge/silksport1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SPORT18
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 #EXTINF:-1,ESPN Brasil
@@ -184,6 +161,11 @@ http://edge13.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 #EXTINF:-1,Eromania 4K
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/10049/index.m3u8
 
+#EXTINF:-1,Desire
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1,Pure Taboo
+http://78.47.224.234/puretaboo/index.m3u8
+
 #EXTINF:-1 tvg-id="BrazzersTVEurope.us" tvg-logo="https://i.imgur.com/95nP0Pb.png" group-title="XXX",Brazzers TV Europe (720p)
 https://cdn-main.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
 #EXTINF:-1,BRAZZERS
@@ -219,7 +201,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6173/index.m3u8
 #EXTINF:-1,Bang POV
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/12166/index.m3u8
 #EXTINF:-1 tvg-id="DorcelTV.nl" tvg-logo="https://i.imgur.com/RkzyjEd.png" group-title="XXX",Dorcel TV (720p)
-https://cdn-main.lolokoko.tv/DorcelTV.stream/playlist.m3u8
+https://cdn-main.lolokoko.tv/DorcelTV.stream/chunks.m3u8
 #EXTINF:-1,DORCEL XXX TV
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/12132/index.m3u8
 #EXTINF:-1,Dorcel Club
@@ -541,8 +523,7 @@ https://edge-hls.doppiocdn.com/hls/28602377/master/28602377.m3u8
 https://edge-hls.doppiocdn.com/hls/93362985/master/93362985.m3u8
 #EXTINF:-1,Evolved Fights
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6200/index.m3u8
-#EXTINF:-1,Desire
-http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+
 #EXTINF:-1,,Fake Taxi HD
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6202/index.m3u8
 #EXTINF:-1,ANALIZED
