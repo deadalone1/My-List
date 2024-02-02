@@ -83,17 +83,6 @@ https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/am
 
 
 
-
-#EXTINF:-1 tvg-name="SBT Ⓢ" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" tvg-id="SBTNacional.br" group-title="Brazil",SBT Ⓢ
-http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="La7" tvg-logo="https://i.imgur.com/F90mpSa.png" tvg-id="La7.it" group-title="Italy",La7
-https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
-#EXTINF:-1 tvg-name="Canale 21" tvg-logo="https://i.imgur.com/mU6Cq89.png" tvg-id="Canale21.it" group-title="Italy",Canale 21
-https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/playlist.m3u8
-#EXTINF:-1 tvg-name="Canale 7" tvg-logo="https://i.imgur.com/9cuOLCn.png" group-title="Italy",Canale 7
-http://wms.shared.streamshow.it:80/canale7/canale7/playlist.m3u8
-
-
 #EXTINF:-1,МАТЧ ПРЕМЬЕР HD Russia 
 https://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1,МАТЧ Футбол 3 HD 
@@ -163,17 +152,18 @@ http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/10049/index.m3u8
 
 #EXTINF:-1,Desire
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-#EXTINF:-1,Pure Taboo
-http://78.47.224.234/puretaboo/index.m3u8
-
+#EXTINF:-1 tvg-id="DorcelTV.nl" tvg-logo="https://i.imgur.com/RkzyjEd.png" group-title="XXX",Dorcel TV (720p)
+https://cdn-main.lolokoko.tv/DorcelTV.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="BrazzersTVEurope.us" tvg-logo="https://i.imgur.com/95nP0Pb.png" group-title="XXX",Brazzers TV Europe (720p)
 https://cdn-main.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="HustlerHD.nl" tvg-logo="https://i.imgur.com/41Ej2io.png" group-title="XXX",Hustler HD (720p)
+https://cdn-main.lolokoko.tv/HUSTLER.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Olala.ru" tvg-logo="https://i.imgur.com/6aOmZs4.png" group-title="XXX",O-la-la! (576p)
+http://31.148.48.15/O-la-la/index.m3u8
 #EXTINF:-1,BRAZZERS
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6182/index.m3u8
 #EXTINF:-1,BRAZZERS extra
 http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6181/index.m3u8
-#EXTINF:-1 tvg-id="HustlerHD.nl" tvg-logo="https://i.imgur.com/41Ej2io.png" group-title="XXX",Hustler HD (720p)
-https://cdn-main.lolokoko.tv/HUSTLER.stream/chunks.m3u8
 #EXTINF:-1,DE Blue Hustler
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/20023/index.m3u8
 #EXTINF:-1 tvg-id="PenthouseGold.us" tvg-logo="https://i.imgur.com/0JufwBJ.png" group-title="XXX",Penthouse Gold (1080p)
@@ -200,8 +190,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6248/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6173/index.m3u8
 #EXTINF:-1,Bang POV
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/12166/index.m3u8
-#EXTINF:-1 tvg-id="DorcelTV.nl" tvg-logo="https://i.imgur.com/RkzyjEd.png" group-title="XXX",Dorcel TV (720p)
-https://cdn-main.lolokoko.tv/DorcelTV.stream/chunks.m3u8
+
 #EXTINF:-1,DORCEL XXX TV
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/12132/index.m3u8
 #EXTINF:-1,Dorcel Club
@@ -554,8 +543,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/12135/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/20026/index.m3u8
 #EXTINF:-1,Venus
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6284/index.m3u8
-#EXTINF:-1 tvg-id="Olala.ru" tvg-logo="https://i.imgur.com/6aOmZs4.png" group-title="XXX",O-la-la! (576p)
-http://31.148.48.15/O-la-la/index.m3u8
+
 #EXTINF:-1, Babestation 24
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 #EXTINF:-1,Visit-X TV
@@ -786,9 +774,6 @@ http://cdn.adultiptv.net/compilation.m3u8
 http://cdn.adultiptv.net/teen.m3u8
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Miami TV Jenny Live
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
 
 
 
