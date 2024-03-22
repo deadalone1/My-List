@@ -32,6 +32,9 @@ https://ythls.armelin.one/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="Culture",Encuentro
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+#EXTINF:-1,El Gourmet
+http://181.78.105.146:6060/play/a00u
+
 
 #EXTINF:-1 tvg-id="Vorterix.ar" tvg-logo="https://i.imgur.com/RWL10TG.png" group-title="Entertainment",Vorterix
 https://ythls.armelin.one/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
@@ -41,6 +44,10 @@ http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1, VariedTV
 https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1,Animal Planet HD
+http://181.78.105.146:6060/play/a02d
 
 
 
@@ -119,6 +126,10 @@ https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 #EXTINF:-1,Canal+ Sport HD FR | France
 http://77.72.23.28/iptv/V5ENSYN9WCXBDW/2502/index.m3u8
 
+#EXTINF:-1 format="auto" tvg-name="" tvg-id="" group-title="Combat" tvg-logo="https://pbs.twimg.com/profile_images/1305918437496164354/UbULc0Jx_400x400.jpg",XFC MMA 🇺🇸 🟤
+https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
+#EXTINF:-1 format="auto" tvg-name="" tvg-id="" group-title="Combat" tvg-logo="https://images.pluto.tv/channels/6334a574605f140007e233c4/colorLogoPNG.png",PFL MMA 🇧🇷🇺🇸 🟤
+https://r.mjh.nz/PlutoTV/64f6180130ab3300083d896b-alt.m3u8
 
 
 
@@ -132,14 +143,68 @@ http://77.72.23.28/iptv/V5ENSYN9WCXBDW/2502/index.m3u8
 https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion TV
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Misort" ,Code Fashion TV HD
+http://cdn3.invivo.bg/Codefashion_5500/tracks-v1a1/mono.m3u8
+#EXTINF:-1,E! Entertairment HD
+http://181.78.105.146:6060/play/a02e
 #EXTINF:-1 tvg-id="MiamiTV.us" tvg-logo="https://i.imgur.com/esK4CBZ.png" group-title="XXX",Miami TV (720p)
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB3131/playlist.m3u8
 #EXTINF:-1 tvg-id="MiamiTV.us" tvg-logo="https://i.imgur.com/esK4CBZ.png" group-title="XXX",Miami TV Latino (720p)
-https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/playlist.m3u8
 #EXTINF:-1 tvg-id="MiamiTV.us" tvg-logo="https://i.imgur.com/esK4CBZ.png" group-title="XXX",MiamiTVJennyForYou
 https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/playlist.m3u8
 #EXTINF:-1,Miami TV Mexico
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+
+
+
+
+#EXTINF:-1, Кино 18+ International
+https://autopilot.catcast.tv/content/40381/index.m3u8
+#EXTINF:-1,Venus
+http://38.41.8.1:8000/play/a07w
+#EXTINF:-1,Playboy
+http://181.78.105.146:6060/play/a052
+#EXTINF:-1,BCU Charm HD
+http://messi.tvfor.pro/TIOnerAsTA/dk72l8l81yr298571wjecm5a
+
+#EXTINF:-1 tvg-id="1528" tvg-name="Extasy 4K" tvg-logo="http://tvfor.pro/img/images/Chanels/extasy-tv-cz.png" group-title="Взрослые" catchup-days="0",Extasy 4K
+#EXTGRP:Взрослые
+http://messi.tvfor.pro/bUShkiseRm/dk72l8l81yr298571wjecm5a
+#EXTINF:-1 tvg-id="1378" tvg-name="Olala" tvg-logo="http://tvfor.pro/img/images/Chanels/olala_ru.png" group-title="Взрослые" catchup-days="0",Olala
+#EXTGRP:Взрослые
+http://messi.tvfor.pro/dEnteRNaCt/dk72l8l81yr298571wjecm5a
+#EXTINF:-1 tvg-id="1393" tvg-name="Babes TV HD" tvg-logo="http://tvfor.pro/img/images/Chanels/babes-tv-us.png" group-title="Взрослые" catchup-days="0",Babes TV HD
+#EXTGRP:Взрослые
+http://messi.tvfor.pro/aGiDatERMa/dk72l8l81yr298571wjecm5a
+
+
+
+
+
+
+#EXTINF:-1 group-title="Misort" ,MILF
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 group-title="Misort" ,Pornstar
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 group-title="Misort" ,Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="Misort" ,Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 group-title="Misort" ,Teen HD
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 group-title="Misort" ,Russian HD (18+)
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 group-title="Misort" ,HARDCORE
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="Misort" ,POV HD 720 (18+)
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 group-title="Misort" ,Latina HD 720 (18+)
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 group-title="Misort" ,Bigass HD (18+)
+http://live.redtraffic.xyz/bigass.m3u8
+
+
 
 #EXTINF:-1,BCU Charm HD
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/18053/index.m3u8
