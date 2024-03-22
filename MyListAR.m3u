@@ -45,20 +45,12 @@ https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G Osaka
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
-#EXTINF:-1 group-title="JAPAN" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK E
-http://asia.vthanhtivi.pw/NHK_E/index.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhkbs1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png", NHK BS1  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
-#EXTINF:-1 group-title="JAPAN" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X
-http://asia.vthanhtivi.pw/AT-X/index.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Culture;News",NHK World Japan (1080p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="AsahiShimbunDigital.jp" tvg-logo="https://i.imgur.com/DuGepQp.jpg" group-title="News",Asahi Shimbun Digital (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV 
-http://asia.vthanhtivi.pw/Nippon_TV/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1
-http://asia.vthanhtivi.pw/Tokyo_MX1/index.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png", MBS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="ytv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", Yomiuri TV  
@@ -69,8 +61,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bstvtokyo" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tokyo-jp.png", BS TV Tokyo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
-#EXTINF:0,TV Tokyo
-http://203.162.235.41:19098
+
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="wowowprime" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png", WOWOW Prime  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="wowowlive" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png", WOWOW Live  
@@ -89,8 +80,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="ntvgplus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png", 日テレジータス / Nittele G+
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="mtv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv-us.svg", MTV  
-http://asia.vthanhtivi.pw/MTV/index.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="kidsstation" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", キッズステーション / Kids Staton TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
 
@@ -122,34 +111,13 @@ https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/am
 
 
 
-#EXTINF:-1,МАТЧ ПРЕМЬЕР HD Russia 
-https://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1,МАТЧ Футбол 3 HD 
-http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1,SPORT18
-http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
-#EXTINF:-1,ESPN Brasil
-http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/19059/index.m3u8
-#EXTINF:-1,TNT SPORTS1 Brazil
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1,TNT SPORTS2 Brazil
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1,TNT SPORTS4 Brazil
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1,ARAB CHANNEL 1 Saudi Arabia
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1,Eleven HD PL
 http://ua3.iptv.monster/play/1903/350B326FB34F4B8/video.m3u8
 #EXTINF:-1,TUDN Mexico
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 #EXTINF:-1,Canal+ Sport HD FR | France
 http://77.72.23.28/iptv/V5ENSYN9WCXBDW/2502/index.m3u8
-#EXTINF:-1,BeIN Sports Haber FHD TR | Turkey
-http://77.72.23.28/iptv/MNPBNDKVDKX8G9/6939/index.m3u8
-#EXTINF:-1,Sky Sport News HD DE | Germany
-http://77.72.23.28/iptv/WTRMLWF6MHW5NG/2477/index.m3u8
-#EXTINF:-1,PL Eleven Sports 3 HD
-http://77.72.23.28/iptv/SYBA4CKW5FBV5F/2533/index.m3u8
+
 
 
 
@@ -236,188 +204,13 @@ http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/12132/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6197/index.m3u8
 #EXTINF:-1,Vivid Red HD
 http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/2162/index.m3u8
-#EXTINF:-1,Vivid TV Europe
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6264/index.m3u8
-#EXTINF:-1,Cum Louder
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6189/index.m3u8
-#EXTINF:-1,Alba 1 HD
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/12105/index.m3u8
-#EXTINF:-1,Alba XXX HD 2
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/12194/index.m3u8
-#EXTINF:-1,Leo TV HD
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6272/index.m3u8
-#EXTINF:-1,Leo TV Gold
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6279/index.m3u8
-#EXTINF:-1,VERAPORN GROUP SEX
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/12141/index.m3u8
-#EXTINF:-1,VERAPORN GROUP SEX 2
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/12142/index.m3u8
-#EXTINF:-1,Pure mature
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/12112/index.m3u8
-#EXTINF:-1,MYLF
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6216/index.m3u8
-#EXTINF:-1,MYLF TV HD
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6236/index.m3u8
-
-#EXTINF:-1,Family Swap
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/12155/index.m3u8
-#EXTINF:-1,Family Strokes
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/12156/index.m3u8
 
 
 
-#EXTINF:-1,DDF Network
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6194/index.m3u8
 
-#EXTINF:-1,DDF Busty
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6193/index.m3u8
 
-#EXTINF:-1,XXL
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/5009/index.m3u8
 
-#EXTINF:-1,A3 Bikini SEXART
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6165/index.m3u8
 
-#EXTINF:-1,Babes TV HD
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6172/index.m3u8
-
-#EXTINF:-1,Bang!
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6174/index.m3u8
-
-#EXTINF:-1,Cherry Pimps
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6185/index.m3u8
-
-#EXTINF:-1,Club 17
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6186/index.m3u8
-
-#EXTINF:-1,Cum4k
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6190/index.m3u8
-
-#EXTINF:-1,Cum Perfection
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/12158/index.m3u8
-
-#EXTINF:-1,Digital Desire HD
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6195/index.m3u8
-
-#EXTINF:-1,Digital Playground HD
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6196/index.m3u8
-
-#EXTINF:-1,Dusk
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6198/index.m3u8
-
-#EXTINF:-1,Evil Angel HD
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6199/index.m3u8
-
-#EXTINF:-1,FemJoy
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6212/index.m3u8
-
-#EXTINF:-1,Hard X
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6218/index.m3u8
-
-#EXTINF:-1,Hitzefrei HD
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6220/index.m3u8
-
-#EXTINF:-1,Holed
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6221/index.m3u8
-
-#EXTINF:-1,Hot Guys Fuck
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6223/index.m3u8
-
-#EXTINF:-1,Japan HDV
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6225/index.m3u8
-
-#EXTINF:-1,Little Asians HD
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6230/index.m3u8
-
-#EXTINF:-1,Banana Fever
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/12168/index.m3u8
-
-#EXTINF:-1,Lesbea
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6227/index.m3u8
-
-#EXTINF:-1,Lethal Hardcore
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6229/index.m3u8
-
-#EXTINF:-1,MetArt HD
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6233/index.m3u8
-
-#EXTINF:-1,Nubiles TV HD
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6238/index.m3u8
-
-#EXTINF:-1,ox-ax HD
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/11068/index.m3u8
-
-#EXTINF:-1,Erotic Spice
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/12110/index.m3u8
-
-#EXTINF:-1,Erotica X
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/12109/index.m3u8
-
-#EXTINF:-1,Exotic 4k
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/12107/index.m3u8
-
-#EXTINF:-1,Lust Cinema
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6232/index.m3u8
-
-#EXTINF:-1,Public Agent
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6246/index.m3u8
-
-#EXTINF:-1,Sex With Muslims
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6252/index.m3u8
-
-#EXTINF:-1,SINematica
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6255/index.m3u8
-
-#EXTINF:-1,Tiny4K
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6258/index.m3u8
-
-#EXTINF:-1,True Amateurs
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6260/index.m3u8
-
-#EXTINF:-1,Tushy HD
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6261/index.m3u8
-
-#EXTINF:-1,TushyRAW
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6262/index.m3u8
-
-#EXTINF:-1,Vixen HD
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6265/index.m3u8
-
-#EXTINF:-1,White Boxxx
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6267/index.m3u8
-
-#EXTINF:-1,Wicked
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6268/index.m3u8
-
-#EXTINF:-1,Xpanded TV
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6269/index.m3u8
-
-#EXTINF:-1,KinoXXX
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/11052/index.m3u8
-
-#EXTINF:-1,Balkan Erotic
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6270/index.m3u8
-
-#EXTINF:-1,Red Lips
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6271/index.m3u8
-
-#EXTINF:-1,Extreme
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6273/index.m3u8
-
-#EXTINF:-1,HOT
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6275/index.m3u8
-
-#EXTINF:-1,HOT XXL HD
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6276/index.m3u8
-
-#EXTINF:-1,Hot Pleasure
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6277/index.m3u8
-
-#EXTINF:-1,Red XXX
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6281/index.m3u8
-
-#EXTINF:-1,Sexy Hot
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/6282/index.m3u8
 
 
 
