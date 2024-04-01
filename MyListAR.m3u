@@ -148,11 +148,13 @@ http://cdn3.invivo.bg/Codefashion_5500/tracks-v1a1/mono.m3u8
 #EXTINF:-1,E! Entertairment HD
 http://181.78.105.146:6060/play/a02e
 #EXTINF:-1 tvg-id="MiamiTV.us" tvg-logo="https://i.imgur.com/esK4CBZ.png" group-title="XXX",Miami TV (720p)
-https://59ec5453559f0.streamlock.net/miamitv/smil:WEB3131/playlist.m3u8
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTV.us" tvg-logo="https://i.imgur.com/esK4CBZ.png" group-title="XXX",Miami TV copia
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB1988/playlist.m3u8
 #EXTINF:-1 tvg-id="MiamiTV.us" tvg-logo="https://i.imgur.com/esK4CBZ.png" group-title="XXX",Miami TV Latino (720p)
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/playlist.m3u8
 #EXTINF:-1 tvg-id="MiamiTV.us" tvg-logo="https://i.imgur.com/esK4CBZ.png" group-title="XXX",MiamiTVJennyForYou
-https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/playlist.m3u8
+https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB3131/.m3u8
 #EXTINF:-1,Miami TV Mexico
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 
@@ -167,6 +169,12 @@ http://38.41.8.1:8000/play/a07w
 http://181.78.105.146:6060/play/a052
 #EXTINF:-1,BCU Charm HD
 http://messi.tvfor.pro/TIOnerAsTA/dk72l8l81yr298571wjecm5a
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="+18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Porn_Barnstar_Hires.png",🔞💥 Babestation
+http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Penthouse_Gold.svg",🔞 Penthouse Gold
+http://45.166.92.22:58001/play/a04c/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="1528" tvg-name="Extasy 4K" tvg-logo="http://tvfor.pro/img/images/Chanels/extasy-tv-cz.png" group-title="Взрослые" catchup-days="0",Extasy 4K
 #EXTGRP:Взрослые
