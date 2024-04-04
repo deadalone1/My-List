@@ -20,8 +20,8 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 https://ythls.armelin.one/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8
 #EXTINF:-1, TV Publica
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
-#EXTINF:-1, Telefe Rosario
-https://ythls.armelin.one/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Sports",TYC Sports
+https://catowrap.live/mrgamingtyc.m3u8
 
 
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="",Ciudad Magazine
@@ -32,18 +32,15 @@ https://ythls.armelin.one/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="Culture",Encuentro
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
-#EXTINF:-1,El Gourmet
-http://181.78.105.146:6060/play/a00u
 
 
-#EXTINF:-1 tvg-id="Vorterix.ar" tvg-logo="https://i.imgur.com/RWL10TG.png" group-title="Entertainment",Vorterix
-https://ythls.armelin.one/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
+
+
 #EXTINF:-1,Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="MagicKids.ar" tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="Animation",Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
-#EXTINF:-1, VariedTV
-https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8?PlaylistM3UCL
+
 
 
 #EXTINF:-1,Animal Planet HD
