@@ -16,15 +16,17 @@ https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 #EXTINF:-1, TyC Sports
 http://181.205.77.118:4849/play/a0ah
 #EXTINF:-1, ESPN
-http://181.205.77.118:4849/play/a09l
+http://181.78.22.251:8090/play/a00c/index.m3u8
 #EXTINF:-1, ESPN 2
-http://181.205.77.118:4849/play/CH18
+http://181.78.22.251:8090/play/a008/index.m3u8
 #EXTINF:-1, ESPN 3
-http://181.205.77.118:4849/play/CH19
+http://181.78.22.251:8090/play/a00h/index.m3u8
+#EXTINF:-1, ESPN 5
+http://181.78.22.251:8090/play/a00v/index.m3u8
 #EXTINF:-1, ESPN EXTRA
-http://181.205.77.118:4849/play/CH21
+http://181.78.22.251:8090/play/a014/index.m3u8
 #EXTINF:-1, ESPN PREMIUM
-http://181.205.77.118:4849/play/CH22
+http://181.78.22.251:8090/play/a01y/index.m3u8
 #EXTINF:-1, TNT
 http://181.205.77.118:4849/play/CH139
 
@@ -205,13 +207,14 @@ https://autopilot.catcast.tv/content/40381/index.m3u8
 #EXTINF:-1,Venus
 http://38.41.8.1:8000/play/a07w
 #EXTINF:-1,Playboy
-http://181.78.105.146:6060/play/a052
+http://181.78.22.251:8090/play/a02t/index.m3u8
 #EXTINF:-1,BCU Charm HD
 http://messi.tvfor.pro/TIOnerAsTA/dk72l8l81yr298571wjecm5a
 #EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="+18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Porn_Barnstar_Hires.png",🔞💥 Babestation
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Penthouse_Gold.svg",🔞 Penthouse Gold
-http://45.166.92.22:58001/play/a04c/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="1381" tvg-name="Шалун HD" tvg-logo="http://tvfor.pro/img/images/Chanels/shalun_ru.png" group-title="Взрослые" catchup-days="0",Шалун HD
 #EXTGRP:Взрослые
 http://messi.tvfor.pro/XIoNGerGEN/dk72l8l81yr298571wjecm5a
@@ -233,18 +236,24 @@ http://messi.tvfor.pro/dEnteRNaCt/dk72l8l81yr298571wjecm5a
 #EXTINF:-1 tvg-id="1393" tvg-name="Babes TV HD" tvg-logo="http://tvfor.pro/img/images/Chanels/babes-tv-us.png" group-title="Взрослые" catchup-days="0",Babes TV HD
 #EXTGRP:Взрослые
 http://messi.tvfor.pro/aGiDatERMa/dk72l8l81yr298571wjecm5a
+
 #EXTINF:-1 tvg-id="1384" tvg-name="Private TV HD" tvg-logo="http://tvfor.pro/img/images/Chanels/private_tv_es.png" group-title="Взрослые" catchup-days="0",Private TV HD
-#EXTGRP:Взрослые
-http://messi.tvfor.pro/aCquaRidaT/dk72l8l81yr298571wjecm5a
+http://146.59.54.163/356/playlist.m3u8
+#EXTINF:-1 tvg-id="1391" tvg-name="Hustler HD" tvg-logo="http://tvfor.pro/img/images/Chanels/hustler_tv_europe_hd.png" group-title="Взрослые" catchup-days="0",Hustler HD
+http://146.59.54.163/345/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Penthouse_Gold.svg",🔞 Penthouse Gold
+http://146.59.54.163/353/index.m3u8
+
+
 #EXTINF:-1 tvg-id="2559" tvg-name="Blue Hustler" tvg-logo="http://tvfor.pro/img/images/Chanels/Blue_Hustler_TV.png" group-title="Взрослые" catchup-days="0",Blue Hustler
 #EXTGRP:Взрослые
 http://messi.tvfor.pro/fU36p77FmV/dk72l8l81yr298571wjecm5a
 #EXTINF:-1 tvg-id="2589" tvg-name="Vivid Red HD" tvg-logo="http://tvfor.pro/img/images/Chanels/vivid_red_hd.png" group-title="Взрослые" catchup-days="0",Vivid Red HD
 #EXTGRP:Взрослые
 http://messi.tvfor.pro/HR867ybD8i/dk72l8l81yr298571wjecm5a
-#EXTINF:-1 tvg-id="1391" tvg-name="Hustler HD" tvg-logo="http://tvfor.pro/img/images/Chanels/hustler_tv_europe_hd.png" group-title="Взрослые" catchup-days="0",Hustler HD
-#EXTGRP:Взрослые
-http://messi.tvfor.pro/cHInGolanp/dk72l8l81yr298571wjecm5a
+
+
+
 #EXTINF:-1 tvg-id="1387" tvg-name="Русская ночь" tvg-logo="http://tvfor.pro/img/images/Chanels/russkaja_noch.png" group-title="Взрослые" catchup-days="0",Русская ночь
 #EXTGRP:Взрослые
 http://messi.tvfor.pro/mPlafenrYp/dk72l8l81yr298571wjecm5a
