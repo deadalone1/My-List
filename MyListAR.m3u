@@ -55,8 +55,6 @@ https://ythls.armelin.one/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="Culture",Encuentro
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
-#EXTINF:-1, El Garage TV
-https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1, NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
@@ -69,8 +67,7 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 
 
 
-#EXTINF:-1,Animal Planet HD
-http://181.78.105.146:6060/play/a02d
+
 
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bstvtokyo" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tokyo-jp.png", BS TV Tokyo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
@@ -332,9 +329,8 @@ http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/10049/index.m3u8
 
 
 
-
-#EXTINF:-1, Miami TV premium
-https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/chunklist_w416007053_b1896000.m3u8
-#EXTINF:-1, Miami TV premium
-https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/chunklist_w416007053_b1896000.m3u8
+#EXTINF:-1, El Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1,Animal Planet HD
+http://181.78.105.146:6060/play/a02d
 
