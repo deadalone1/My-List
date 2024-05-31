@@ -14,7 +14,7 @@ https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 
 #EXTINF:-1, TyC Sports
-http://181.205.77.118:4849/play/a0ah
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_1.m3u8
 #EXTINF:-1, ESPN
 http://181.78.22.251:8090/play/a00c/index.m3u8
 #EXTINF:-1, ESPN 2
@@ -163,15 +163,6 @@ https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
 
 
 
-#EXTINF:-1,Eleven HD PL
-http://ua3.iptv.monster/play/1903/350B326FB34F4B8/video.m3u8
-
-
-#EXTINF:-1 format="auto" tvg-name="" tvg-id="" group-title="Combat" tvg-logo="https://images.pluto.tv/channels/6334a574605f140007e233c4/colorLogoPNG.png",PFL MMA 🇧🇷🇺🇸 🟤
-https://r.mjh.nz/PlutoTV/64f6180130ab3300083d896b-alt.m3u8
-
-
-
 
 
 
@@ -205,16 +196,9 @@ https://autopilot.catcast.tv/content/40381/index.m3u8
 http://38.41.8.1:8000/play/a07w
 #EXTINF:-1,Playboy
 http://181.78.22.251:8090/play/a02t/index.m3u8
-#EXTINF:-1,BCU Charm HD
-http://messi.tvfor.pro/TIOnerAsTA/dk72l8l81yr298571wjecm5a
 #EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="+18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Porn_Barnstar_Hires.png",🔞💥 Babestation
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 
-
-
-#EXTINF:-1 tvg-id="1381" tvg-name="Шалун HD" tvg-logo="http://tvfor.pro/img/images/Chanels/shalun_ru.png" group-title="Взрослые" catchup-days="0",Шалун HD
-#EXTGRP:Взрослые
-http://messi.tvfor.pro/XIoNGerGEN/dk72l8l81yr298571wjecm5a
 
 
 
@@ -267,15 +251,9 @@ http://messi.tvfor.pro/ayetHEworI/dk72l8l81yr298571wjecm5a
 #EXTGRP:Взрослые
 http://messi.tvfor.pro/rVATioNMAN/dk72l8l81yr298571wjecm5a
 
-#EXTINF:-1 tvg-id="1394" tvg-name="Brazzers TV" tvg-logo="http://tvfor.pro/img/images/Chanels/brazzers_tv_eu.png" group-title="Взрослые" catchup-days="0",Brazzers TV
-#EXTGRP:Взрослые
-http://messi.tvfor.pro/bUgErTSErI/dk72l8l81yr298571wjecm5a
-#EXTINF:-1 tvg-id="1383" tvg-name="Dorcel TV HD" tvg-logo="http://tvfor.pro/img/images/Chanels/dorcel_tv_fr.png" group-title="Взрослые" catchup-days="0",Dorcel TV HD
-#EXTGRP:Взрослые
-http://messi.tvfor.pro/groUSIneta/dk72l8l81yr298571wjecm5a
-#EXTINF:-1 tvg-id="1386" tvg-name="Exxxotica" tvg-logo="http://tvfor.pro/img/images/Chanels/exxxotica-ru.png" group-title="Взрослые" catchup-days="0",Exxxotica
-#EXTGRP:Взрослые
-http://messi.tvfor.pro/HerVAdesTO/dk72l8l81yr298571wjecm5a
+
+
+
 
 
 
