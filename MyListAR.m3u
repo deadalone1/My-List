@@ -13,25 +13,6 @@ https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" tvg-id="", Canal 26
 https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 
-#EXTINF:-1, TyC Sports
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_1.m3u8
-#EXTINF:-1, ESPN
-http://181.78.22.251:8090/play/a00c/index.m3u8
-#EXTINF:-1, ESPN 2
-http://181.78.22.251:8090/play/a008/index.m3u8
-#EXTINF:-1, ESPN 3
-http://181.78.22.251:8090/play/a00h/index.m3u8
-#EXTINF:-1, ESPN 5
-http://181.78.22.251:8090/play/a00v/index.m3u8
-#EXTINF:-1, ESPN EXTRA
-http://181.78.22.251:8090/play/a014/index.m3u8
-#EXTINF:-1, ESPN PREMIUM
-http://181.78.22.251:8090/play/a01y/index.m3u8
-#EXTINF:-1, TNT
-http://181.205.77.118:4849/play/CH139
-
-#EXTINF:-1 channel-id="pluto-5de91b7ea86ee60009d89e75" tvg-id="5de91b7ea86ee60009d89e75" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png" tvg-chno="387" group-title="Reality" , MTV Classic
-https://r.mjh.nz/PlutoTV/5de91b7ea86ee60009d89e75-alt.m3u8
 
 
 #EXTINF:-1, America TV
@@ -58,6 +39,8 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 #EXTINF:-1, NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
+#EXTINF:-1 channel-id="pluto-5de91b7ea86ee60009d89e75" tvg-id="5de91b7ea86ee60009d89e75" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png" tvg-chno="387" group-title="Reality" , MTV Classic
+https://r.mjh.nz/PlutoTV/5de91b7ea86ee60009d89e75-alt.m3u8
 
 #EXTINF:-1,Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
@@ -194,62 +177,16 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 https://autopilot.catcast.tv/content/40381/index.m3u8
 #EXTINF:-1,Venus
 http://38.41.8.1:8000/play/a07w
-#EXTINF:-1,Playboy
-http://181.78.22.251:8090/play/a02t/index.m3u8
 #EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="+18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Porn_Barnstar_Hires.png",🔞💥 Babestation
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-
-
-
-
-#EXTINF:-1,Desire
-http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Olala.ru" tvg-logo="https://i.imgur.com/6aOmZs4.png" group-title="XXX",O-la-la! (576p)
 http://31.148.48.15/O-la-la/index.m3u8
 
 
-#EXTINF:-1 tvg-id="1528" tvg-name="Extasy 4K" tvg-logo="http://tvfor.pro/img/images/Chanels/extasy-tv-cz.png" group-title="Взрослые" catchup-days="0",Extasy 4K
-#EXTGRP:Взрослые
-http://messi.tvfor.pro/bUShkiseRm/dk72l8l81yr298571wjecm5a
-#EXTINF:-1 tvg-id="1378" tvg-name="Olala" tvg-logo="http://tvfor.pro/img/images/Chanels/olala_ru.png" group-title="Взрослые" catchup-days="0",Olala
-#EXTGRP:Взрослые
-http://messi.tvfor.pro/dEnteRNaCt/dk72l8l81yr298571wjecm5a
-#EXTINF:-1 tvg-id="1393" tvg-name="Babes TV HD" tvg-logo="http://tvfor.pro/img/images/Chanels/babes-tv-us.png" group-title="Взрослые" catchup-days="0",Babes TV HD
-#EXTGRP:Взрослые
-http://messi.tvfor.pro/aGiDatERMa/dk72l8l81yr298571wjecm5a
-
-#EXTINF:-1 tvg-id="1384" tvg-name="Private TV HD" tvg-logo="http://tvfor.pro/img/images/Chanels/private_tv_es.png" group-title="Взрослые" catchup-days="0",Private TV HD
-http://146.59.54.163/356/playlist.m3u8
-#EXTINF:-1 tvg-id="1391" tvg-name="Hustler HD" tvg-logo="http://tvfor.pro/img/images/Chanels/hustler_tv_europe_hd.png" group-title="Взрослые" catchup-days="0",Hustler HD
-http://146.59.54.163/345/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Penthouse_Gold.svg",🔞 Penthouse Gold
-http://146.59.54.163/353/index.m3u8
-
-
-#EXTINF:-1 tvg-id="2559" tvg-name="Blue Hustler" tvg-logo="http://tvfor.pro/img/images/Chanels/Blue_Hustler_TV.png" group-title="Взрослые" catchup-days="0",Blue Hustler
-#EXTGRP:Взрослые
-http://messi.tvfor.pro/fU36p77FmV/dk72l8l81yr298571wjecm5a
-#EXTINF:-1 tvg-id="2589" tvg-name="Vivid Red HD" tvg-logo="http://tvfor.pro/img/images/Chanels/vivid_red_hd.png" group-title="Взрослые" catchup-days="0",Vivid Red HD
-#EXTGRP:Взрослые
-http://messi.tvfor.pro/HR867ybD8i/dk72l8l81yr298571wjecm5a
 
 
 
-#EXTINF:-1 tvg-id="1387" tvg-name="Русская ночь" tvg-logo="http://tvfor.pro/img/images/Chanels/russkaja_noch.png" group-title="Взрослые" catchup-days="0",Русская ночь
-#EXTGRP:Взрослые
-http://messi.tvfor.pro/mPlafenrYp/dk72l8l81yr298571wjecm5a
-#EXTINF:-1 tvg-id="1385" tvg-name="Playboy TV HD" tvg-logo="http://tvfor.pro/img/images/Chanels/playboy_tv_us.png" group-title="Взрослые" catchup-days="0",Playboy TV HD
-#EXTGRP:Взрослые
-http://messi.tvfor.pro/slEStOnTic/dk72l8l81yr298571wjecm5a
-#EXTINF:-1 tvg-id="2590" tvg-name="Penthouse Reality TV" tvg-logo="http://tvfor.pro/img/images/Chanels/pe_re_tv.png" group-title="Взрослые" catchup-days="0",Penthouse Reality TV
-#EXTGRP:Взрослые
-http://messi.tvfor.pro/52TtpDd45K/dk72l8l81yr298571wjecm5a
-#EXTINF:-1 tvg-id="1388" tvg-name="Penthouse GOLD" tvg-logo="http://tvfor.pro/img/images/Chanels/Penthouse_GOLD.png" group-title="Взрослые" catchup-days="0",Penthouse GOLD
-#EXTGRP:Взрослые
-http://messi.tvfor.pro/ayetHEworI/dk72l8l81yr298571wjecm5a
-#EXTINF:-1 tvg-id="1392" tvg-name="Redlight HD" tvg-logo="http://tvfor.pro/img/images/Chanels/redlight_hd.png" group-title="Взрослые" catchup-days="0",Redlight HD
-#EXTGRP:Взрослые
-http://messi.tvfor.pro/rVATioNMAN/dk72l8l81yr298571wjecm5a
+
 
 
 
@@ -312,3 +249,24 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1,Animal Planet HD
 http://181.78.105.146:6060/play/a02d
 
+
+
+#EXTINF:-1, ESPN 2 AR
+http://tvbross.com:8090/mBEic2w7BZ/nuDwNNJLE8/18192
+#EXTINF:-1, FOX Sport AR
+http://lobo-tv.live:8080/rhin0xCPwow/yXtqbNNtmzaqU/10957
+#EXTINF:-1, FOX 3 (argentina)
+http://tv.soccerplus.link:8000/andresmiranda/DTp1CZJ98f/34589
+#EXTINF:-1,  TNT Sports (argentina)
+http://tvbross.com:8090/mBEic2w7BZ/nuDwNNJLE8/37542
+#EXTINF:-1, ESPN US
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158831
+#EXTINF:-1, FOX Deportes US
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158838
+#EXTINF:-1, ESPN AR
+http://170.82.37.21:8000/play/a04g/index.m3u8
+#EXTINF:-1, ESPN PREMIUM
+http://tvbross.com:8090/mBEic2w7BZ/nuDwNNJLE8/47185
+
+#EXTINF:-1, TyC Sports
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_1.m3u8
