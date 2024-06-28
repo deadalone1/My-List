@@ -251,8 +251,6 @@ http://181.78.105.146:6060/play/a02d
 
 
 
-#EXTINF:-1, ESPN 2 AR
-http://tvbross.com:8090/mBEic2w7BZ/nuDwNNJLE8/18192
 
 
 
@@ -262,11 +260,8 @@ http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158831
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158838
 #EXTINF:-1, ESPN AR
 http://170.82.37.21:8000/play/a04g/index.m3u8
-#EXTINF:-1, ESPN PREMIUM
-http://tvbross.com:8090/mBEic2w7BZ/nuDwNNJLE8/47185
 
-#EXTINF:-1,  TNT Sports (argentina)
-http://tvbross.com:8090/mBEic2w7BZ/nuDwNNJLE8/37542
+
 #EXTINF:-1, FOX 3 (argentina)
 http://tv.soccerplus.link:8000/andresmiranda/DTp1CZJ98f/34589
 #EXTINF:-1, FOX Sport AR
