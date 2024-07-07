@@ -249,7 +249,8 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1,Animal Planet HD
 http://181.78.105.146:6060/play/a02d
 
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Simpsons [Aleatorio]" tvg-logo="https://i.ibb.co/B490P1b/simpo.png" group-title="A- Series",Los Simpsons [Aleatorio]
+http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/779.ts
 
 
 
