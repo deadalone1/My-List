@@ -54,24 +54,6 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bstvtokyo" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tokyo-jp.png", BS TV Tokyo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
-#EXTINF:-1 tvg-id="HBCHokkaidoNews24.jp" tvg-logo="https://i.imgur.com/vcGsZVD.png" group-title="News",HBC Hokkaido News 24
-https://ythls.armelin.one/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8
-#EXTINF:-1 tvg-id="HTBHokkaidoNews24.jp" tvg-logo="https://i.imgur.com/yqUItvM.png" group-title="News",HTB Hokkaido News 24
-https://ythls.armelin.one/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8
-#EXTINF:-1 tvg-id="JapaNews24.jp" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqOMUS0adc02h6Py293xPnF0r8QrwOQRLKuVkVFz0Q=s176-c-k-c0x00ffffff-no-rj" group-title="News",JapaNews24
-https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
-#EXTINF:-1 tvg-id="RKBNEWS24.jp" tvg-logo="https://i.imgur.com/SHmYLML.jpg" group-title="News",RKB NEWS 24
-https://ythls.armelin.one/channel/UCgrmHAblzN-QzMMgl2oNRog.m3u8
-#EXTINF:-1 tvg-id="SATVNews24H.jp" tvg-logo="https://i.imgur.com/PxFcRh9.jpg" group-title="News",SATV News 24H
-https://ythls.armelin.one/channel/UCvF5vIejmf-H_XSluaBldfg.m3u8
-#EXTINF:-1 tvg-id="AsahiShimbunDigital.jp" tvg-logo="https://i.imgur.com/DuGepQp.jpg" group-title="News",Asahi Shimbun Digital
-https://ythls.armelin.one/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
-#EXTINF:-1 tvg-id="STVNewsHokkaido.jp" tvg-logo="https://i.imgur.com/oyQ2FnC.jpg" group-title="News",STV News Hokkaido
-https://ythls.armelin.one/channel/UCOZv-6MiXqJdLpmYtR431Ow.m3u8
-#EXTINF:-1 tvg-id="TOSNews.jp" tvg-logo="https://i.imgur.com/JBkXyvj.jpg" group-title="News",TOS News
-https://ythls.armelin.one/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8
-
-
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png", MBS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="ytv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", Yomiuri TV  
@@ -82,8 +64,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="wowowlive" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png", WOWOW Live  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="animax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png", BS Animax  
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="gaora" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png", GAORA SPORTS  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="kidsstation" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", キッズステーション / Kids Staton TV
@@ -127,22 +107,12 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
 #EXTINF:0,Toei Channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
-#EXTINF:0,TV Shizuoka
-https://ythls.armelin.one/channel/UCFIlFvYMWkPE6uDcjdro1UA.m3u8
 
-
-
-
-
-
-#EXTINF:0,Tokushoutsu
-https://amg00163-shoutfactory-tokushoutsu-dmr-c1irg.amagi.tv/playlist/amg00163-shoutfactory-tokushoutsu-dmr/playlist.m3u8
 #EXTINF:0,日本QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:0,Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-#EXTINF:-1 tvg-id="JapaNews24.jp" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqOMUS0adc02h6Py293xPnF0r8QrwOQRLKuVkVFz0Q=s176-c-k-c0x00ffffff-no-rj" group-title="News",ANN JapaNews24 (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
+
 
 
 
@@ -181,23 +151,6 @@ http://38.41.8.1:8000/play/a07w
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 #EXTINF:-1 tvg-id="Olala.ru" tvg-logo="https://i.imgur.com/6aOmZs4.png" group-title="XXX",O-la-la! (576p)
 http://31.148.48.15/O-la-la/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -252,20 +205,11 @@ http://181.78.105.146:6060/play/a02d
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Simpsons [Aleatorio]" tvg-logo="https://i.ibb.co/B490P1b/simpo.png" group-title="A- Series",Los Simpsons [Aleatorio]
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/779.ts
 
-
-
-
-#EXTINF:-1, ESPN US
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158831
-#EXTINF:-1, FOX Deportes US
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158838
+#EXTINF:-1, FOX premium AR
+http://mag.1da.tv:8080/play/live.php?mac=00:1A:79:50:6F:36&stream=100773&extension=ts
+#EXTINF:-1, FOX sport 1 AR
+http://mag.1da.tv:8080/play/live.php?mac=00:1A:79:50:6F:36&stream=100771&extension=ts
 #EXTINF:-1, ESPN AR
 http://170.82.37.21:8000/play/a04g/index.m3u8
-
-
-#EXTINF:-1, FOX 3 (argentina)
-http://tv.soccerplus.link:8000/andresmiranda/DTp1CZJ98f/34589
-#EXTINF:-1, FOX Sport AR
-http://lobo-tv.live:8080/rhin0xCPwow/yXtqbNNtmzaqU/10957
 #EXTINF:-1, TyC Sports
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_1.m3u8
+http://mag.1da.tv:8080/play/live.php?mac=00:1A:79:50:6F:36&stream=100785&extension=ts
