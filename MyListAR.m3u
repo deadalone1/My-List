@@ -5,13 +5,11 @@ https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="News",TN
 https://ythls.armelin.one/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 #EXTINF:-1, A24
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 #EXTINF:-1, Cronica TV
 https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 #EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="News",C5N
 https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" tvg-id="", Canal 26
-https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 
 
 
@@ -122,85 +120,15 @@ http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Baywatch.us" tvg-logo="https://i.imgur.com/c2esKHg.png" group-title="Series",Baywatch
-https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion TV
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Misort" ,FashionTV Czech&Slovak
-http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MiamiTV.us" tvg-logo="https://i.imgur.com/esK4CBZ.png" group-title="XXX",Miami TV (720p)
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
-#EXTINF:-1 tvg-id="MiamiTV.us" tvg-logo="https://i.imgur.com/esK4CBZ.png" group-title="XXX",Miami TV copia
-https://59ec5453559f0.streamlock.net/miamitv/smil:WEB1988/playlist.m3u8
-#EXTINF:-1 tvg-id="MiamiTV.us" tvg-logo="https://i.imgur.com/esK4CBZ.png" group-title="XXX",Miami TV Latino (720p)
-https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/playlist.m3u8
-#EXTINF:-1 tvg-id="MiamiTV.us" tvg-logo="https://i.imgur.com/esK4CBZ.png" group-title="XXX",MiamiTVJennyForYou
-https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB3131/.m3u8
-#EXTINF:-1,Miami TV Mexico
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 
 
 
 
-#EXTINF:-1, Кино 18+ International
-https://autopilot.catcast.tv/content/40381/index.m3u8
-#EXTINF:-1,Venus
-http://38.41.8.1:8000/play/a07w
-#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="+18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Porn_Barnstar_Hires.png",🔞💥 Babestation
-http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-#EXTINF:-1 tvg-id="Olala.ru" tvg-logo="https://i.imgur.com/6aOmZs4.png" group-title="XXX",O-la-la! (576p)
-http://31.148.48.15/O-la-la/index.m3u8
 
 
 
 
-#EXTINF:-1 group-title="Misort" ,MILF
-http://live.redtraffic.xyz/milf.m3u8
-#EXTINF:-1 group-title="Misort" ,Pornstar
-http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 group-title="Misort" ,Blonde
-http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 group-title="Misort" ,Brunette
-http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 group-title="Misort" ,Teen HD
-http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:-1 group-title="Misort" ,Russian HD (18+)
-http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:-1 group-title="Misort" ,HARDCORE
-http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 group-title="Misort" ,POV HD 720 (18+)
-http://live.redtraffic.xyz/pov.m3u8
-#EXTINF:-1 group-title="Misort" ,Latina HD 720 (18+)
-http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:-1 group-title="Misort" ,Bigass HD (18+)
-http://live.redtraffic.xyz/bigass.m3u8
 
-
-
-#EXTINF:-1,BCU Charm HD
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/18053/index.m3u8
-#EXTINF:-1,Yosso TV Sexy
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/14176/index.m3u8
-#EXTINF:-1,Liberty Эротика 4K
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/16069/index.m3u8
-#EXTINF:-1,Кино 18+ HD
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/18075/index.m3u8
-#EXTINF:-1,Кино 18+ International
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/18076/index.m3u8
-#EXTINF:-1,Kinoshka Adult HD
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/18060/index.m3u8
-#EXTINF:-1,Rouge TV
-http://edge13.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-#EXTINF:-1,Eromania 4K
-http://rhsbjv7k.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/10049/index.m3u8
-
-
-
-#EXTINF:-1, El Garage TV
-https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1,Animal Planet HD
-http://181.78.105.146:6060/play/a02d
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Simpsons [Aleatorio]" tvg-logo="https://i.ibb.co/B490P1b/simpo.png" group-title="A- Series",Los Simpsons [Aleatorio]
 http://gzytv.vip:8880/live/Paredes40/cms94kQYmz/779.ts
