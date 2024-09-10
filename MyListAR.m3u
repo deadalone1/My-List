@@ -131,5 +131,9 @@ http://mag.1da.tv:8080/play/live.php?mac=00:1A:79:50:6F:36&stream=100773&extensi
 http://mag.1da.tv:8080/play/live.php?mac=00:1A:79:50:6F:36&stream=100771&extension=ts
 #EXTINF:-1, ESPN AR
 http://170.82.37.21:8000/play/a04g/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN (argentina)
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/50087.ts
+#EXTINF:-1 group-title="Bics DEPORTES", ESPN PREMIUM (argentina)
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/173358.ts
 #EXTINF:-1, TyC Sports
 http://mag.1da.tv:8080/play/live.php?mac=00:1A:79:50:6F:36&stream=100785&extension=ts
