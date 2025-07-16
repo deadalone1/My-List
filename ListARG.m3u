@@ -19,38 +19,29 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1, El Nueve
 https://ythls.armelin.one/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8
-#EXTINF:-1, Canal 26
-https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
+
 #EXTINF:-1, TV Publica
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
-#EXTINF:-1, TyC Sports
-http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
+
 #EXTINF:-1, Canal de la Ciudad
 https://ythls.armelin.one/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="",Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Sports",DeporTV
-https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="Culture",Encuentro
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+
+#EXTINF:-1,Argentinísima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8
 
 
 #EXTINF:-1,Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="MagicKids.ar" tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="Animation",Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
-#EXTINF:-1 channel-id="pluto-5de91b7ea86ee60009d89e75" tvg-id="5de91b7ea86ee60009d89e75" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png" tvg-chno="387" group-title="Reality" , MTV Classic
-https://r.mjh.nz/PlutoTV/5de91b7ea86ee60009d89e75-alt.m3u8
-
-#EXTINF:-1,Animal Planet HD
-http://181.78.105.146:6060/play/a02d
 
 
-#EXTINF:-1, FOX premium AR
-http://mag.1da.tv:8080/play/live.php?mac=00:1A:79:50:6F:36&stream=100773&extension=ts
-#EXTINF:-1, FOX sport 1 AR
-http://mag.1da.tv:8080/play/live.php?mac=00:1A:79:50:6F:36&stream=100771&extension=ts
-#EXTINF:-1, ESPN AR
-http://170.82.37.21:8000/play/a04g/index.m3u8
-#EXTINF:-1, TyC Sports
-http://mag.1da.tv:8080/play/live.php?mac=00:1A:79:50:6F:36&stream=100785&extension=ts
+
+
+
+
