@@ -8,10 +8,9 @@ https://ythls.armelin.one/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 #EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="News",C5N
 https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
-#EXTINF:-1, Cronica TV
-https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 
-#EXTINF:-1,Telefe
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HNcCX3h.png",TELEFE
 https://ssl.cloud.telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:-1, America TV
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
@@ -20,11 +19,6 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1, El Nueve
 https://ythls.armelin.one/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8
 
-#EXTINF:-1, TV Publica
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Canal de la Ciudad
-https://ythls.armelin.one/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="",Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
@@ -35,10 +29,6 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
 
-#EXTINF:-1,Locomotion
-http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="MagicKids.ar" tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="Animation",Magic Kids
-https://magicstream.ddns.net/magicstream/stream.m3u8
 
 
 
