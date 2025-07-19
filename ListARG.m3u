@@ -10,7 +10,7 @@ https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HNcCX3h.png",TELEFE
+#EXTINF:-1 tvg-id="telefe.ar" tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="General",TELEFE
 https://ssl.cloud.telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png", America TV
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
