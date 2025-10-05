@@ -20,6 +20,15 @@ https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNcCX3h.png",Telefe
 https://ssl.cloud.telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
+#EXTINF:0,TyC Sports 
+https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1_1080p/index.m3u8
+#EXTINF:0,ESPN 2
+http://38.250.127.17:9800/play/a08q/index.m3u8
+#EXTINF:0,Ziggo Sport 
+https://a1xs.vip/140001
+#EXTINF:0,Ziggo Sport 2
+https://a1xs.vip/140002
+
 
 
 
