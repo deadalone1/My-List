@@ -34,10 +34,7 @@ http://190.3.108.42:8400/play/a0e0/index.m3u8
 http://201.217.246.177:8000/play/a078/index.m3u8
 #EXTINF:0,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/2560px-TNT_Sports_%282023%29.svg.png",TNT Sports HD
 http://190.3.108.42:8400/play/a0bc/index.m3u8
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports.png",FOX Sports HD
-http://143.0.67.77:8000/play/a07j/index.m3u8
-#EXTINF:0,tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports2.png",FOX Sports 2 HD
-http://190.3.108.42:8400/play/a05c/index.m3u8
+
 #EXTINF:0,tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports3.png",FOX Sports 3 HD
 http://190.3.108.42:8400/play/a02t/index.m3u8
 
