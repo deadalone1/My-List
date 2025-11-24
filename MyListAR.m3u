@@ -45,6 +45,10 @@ http://190.3.108.42:8400/play/a02t/index.m3u8
 
 #EXTINF:0,DTV SPORTS
 http://38.183.182.166:8000/play/a125/index.m3u8
+#EXTINF:0,beIN Sports USA
+http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:0,Premier Sports 2
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
 
 
 #EXTINF:0,tvg-logo="https://epeltvenvivo.weebly.com/uploads/1/3/2/2/132285843/ciudad_orig.png",Ciudad magazine HD
@@ -70,8 +74,7 @@ http://190.123.90.146:8000/play/a02a/index.m3u8
 
 
 
-#EXTINF:0,NHK World Premium
-https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+
 #EXTINF:0,CGNTV Japan
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
 
