@@ -12,7 +12,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1761804025/ei/m
 https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png", America TV
-https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-name="El Trece" tvg-logo="https://i.imgur.com/ZK7AQFg.png" tvg-id="ElTrece.ar" group-title="Argentina",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://i.imgur.com/cJHP7bU.png", El Nueve
@@ -37,13 +37,15 @@ http://201.217.246.177:8000/play/a078/index.m3u8
 #EXTINF:0,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/2560px-TNT_Sports_%282023%29.svg.png",TNT Sports HD
 http://190.3.108.42:8400/play/a0bc/index.m3u8
 
+
+#EXTINF:0,FOX Sports
+http://181.209.125.237:9000/play/a04e/index.m3u8
 #EXTINF:0,tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports3.png",FOX Sports 3 HD
 http://190.3.108.42:8400/play/a02t/index.m3u8
 
-#EXTINF:0,Ziggo Sport 
-https://a1xs.vip/140001
-#EXTINF:0,Ziggo Sport 2
-https://a1xs.vip/140002
+#EXTINF:0,DTV SPORTS
+http://38.183.182.166:8000/play/a125/index.m3u8
+
 
 #EXTINF:0,tvg-logo="https://epeltvenvivo.weebly.com/uploads/1/3/2/2/132285843/ciudad_orig.png",Ciudad magazine HD
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
@@ -53,6 +55,11 @@ https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 http://45.5.151.62:8000/play/a028/index.m3u8
 #EXTINF:0,tvg-logo="https://epeltvenvivo.weebly.com/uploads/1/3/2/2/132285843/c5n_orig.png",C5N
 http://45.5.151.62:8000/play/a023/index.m3u8
+#EXTINF:0,Radio Mitre
+https://live-05-13-mitre.vodgc.net/live-05-13-mitre/index.m3u8
+#EXTINF:0,Bravo TV
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
+
 #EXTINF:0,tvg-logo="https://epeltvenvivo.weebly.com/uploads/1/3/2/2/132285843/cinear_orig.png",Cine.ar
 https://joy.nx-pc.edge-apps.net/hls/m6l52-i7flc-5bii9-70gkm.m3u8
 #EXTINF:0,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGgwC2NLKFI1gKBQj0cn4B_XkL38tsa8xM7EMtOALEXqqXKfZ4d3v-eoo&s=10",Volver
@@ -65,10 +72,8 @@ http://190.123.90.146:8000/play/a02a/index.m3u8
 
 #EXTINF:0,NHK World Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-
-
-
-
+#EXTINF:0,CGNTV Japan
+https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
 
 #EXTINF:0,日本QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
