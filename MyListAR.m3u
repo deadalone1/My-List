@@ -3,17 +3,16 @@
 #EXTINF:0,tvg-logo="https://epeltvenvivo.weebly.com/uploads/1/3/2/2/132285843/lanacion_orig.png",LN+
 http://45.5.151.62:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="News",TN
-https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
+http://45.5.151.62:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="News", A24
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1761804025/ei/maoCaZukKt2ZobIPgdHJsQ8/ip/191.82.221.61/id/ArKbAx1K-2U.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51634281/txs/51631264%2C51634249%2C51634250%2C51634278%2C51634279%2C51634280%2C51634281/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5SFhbx3iEXahQiqC_UCoUR8Q33kIfXlIZUmvXbvpUcmzmrYcyYaNr5KGJtGjYC0UD5-FhLcAqrS/spc/6b0G_GoLcK3OorrOJKh2ZYvaw9e5s9w8kUxlhDPuUR61Es51qGzHwyqhB9oyXbWR6AcOSzGeHR8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgRmcGNkU4d4zZ5RcLPv3J8mXkCXj5iK0dMvoaPsxGMWcCIQDzCTRg5KzwNT7Ym8EXUdZBhoUwQp-JR52BC7-3QOvnWw%3D%3D/file/index.m3u8
-
+http://45.5.151.62:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png", Cronica TV
-https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
+http://45.5.151.62:8000/play/a024/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png", America TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-name="El Trece" tvg-logo="https://i.imgur.com/ZK7AQFg.png" tvg-id="ElTrece.ar" group-title="Argentina",El Trece
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+http://45.5.151.62:8000/play/a026/index.m3u8
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://i.imgur.com/cJHP7bU.png", El Nueve
 http://190.3.108.42:8400/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://i.imgur.com/XGrkzN3.png", TV Publica
@@ -39,6 +38,9 @@ http://190.3.108.42:8400/play/a0bc/index.m3u8
 
 #EXTINF:0,FOX Sports
 http://181.209.125.237:9000/play/a04e/index.m3u8
+#EXTINF:0,FOX Sports a
+http://190.3.108.42:8400/play/a0e1/index.m3u8
+
 #EXTINF:0,tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports3.png",FOX Sports 3 HD
 http://190.3.108.42:8400/play/a02t/index.m3u8
 
@@ -64,11 +66,18 @@ https://live-05-13-mitre.vodgc.net/live-05-13-mitre/index.m3u8
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
 #EXTINF:0,AR12
 https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA__24.5ARGENTINA1
+#EXTINF:0,Canal de la CIudad
+http://190.3.108.42:8400/play/a05c/index.m3u8
+#EXTINF:0,Multivision
+http://45.5.151.62:8000/play/a029/index.m3u8
+#EXTINF:0,CNN en Español
+http://190.3.108.42:8400/play/a054/index.m3u8
+
 
 #EXTINF:0,tvg-logo="https://epeltvenvivo.weebly.com/uploads/1/3/2/2/132285843/cinear_orig.png",Cine.ar
 https://joy.nx-pc.edge-apps.net/hls/m6l52-i7flc-5bii9-70gkm.m3u8
 #EXTINF:0,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGgwC2NLKFI1gKBQj0cn4B_XkL38tsa8xM7EMtOALEXqqXKfZ4d3v-eoo&s=10",Volver
-http://190.123.90.146:8000/play/a02a/index.m3u8
+http://190.3.108.42:8400/play/a021/index.m3u8
 
 
 
