@@ -35,7 +35,8 @@ http://190.3.108.42:8400/play/a0e0/index.m3u8
 http://201.217.246.177:8000/play/a078/index.m3u8
 #EXTINF:0,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/2560px-TNT_Sports_%282023%29.svg.png",TNT Sports HD
 http://190.3.108.42:8400/play/a0bc/index.m3u8
-
+#EXTINF:-1 tvg-id="75" tvg-name="TNT SPORTS" tvg-logo="https://i.imgur.com/tnt-sports-logo.png" group-title="Deportes",TNT SPORTS b
+http://179.51.136.19:8000/play/a0px/index.m3u8
 
 #EXTINF:0,FOX Sports
 http://190.3.108.42:8400/play/a0e1/index.m3u8
@@ -46,6 +47,8 @@ http://190.3.108.42:8400/play/a02t/index.m3u8
 
 #EXTINF:0,DTV SPORTS
 http://38.183.182.166:8000/play/a125/index.m3u8
+#EXTINF:-1,DSPORTS b
+http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
 #EXTINF:0,beIN Sports USA
 http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:0,Premier Sports 2
@@ -72,6 +75,11 @@ http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 https://c822c659.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg" group-title="Sports",MIXER | ESPN
 http://41.205.93.154/ESPN/index.m3u8
+
+#EXTINF:-1 group-title="АПЛ", Sky Sports Premier League
+https://7pal.short.gy/ssportspl
+#EXTINF:-1,MOVISTAR LA LIG
+http://181.78.106.127:9000/play/ca027/index.m3u8
 
 
 # UFC
@@ -132,6 +140,15 @@ https://youtu.be/Nrk36RMBhZA
 
 #EXTINF:-1 group-title="Tokyo PH" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G HD (Primehome)
 https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd01
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/huXFL3A.png",BS Asahi (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/aDdwjjc.png",BS Fuji TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/D8lhZCI.png",BS Nippon TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/yJfA6ak.png",BS TV Tokyo (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
+
 
 #EXTINF:0,日本QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
