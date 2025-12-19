@@ -1,5 +1,7 @@
 #EXTM3U 
 
+# Nacionales
+
 #EXTINF:0,tvg-logo="https://epeltvenvivo.weebly.com/uploads/1/3/2/2/132285843/lanacion_orig.png",LN+
 http://45.5.151.62:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="News",TN
@@ -8,7 +10,6 @@ http://45.5.151.62:8000/play/a020/index.m3u8
 http://45.5.151.62:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png", Cronica TV
 http://45.5.151.62:8000/play/a024/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png", America TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-name="El Trece" tvg-logo="https://i.imgur.com/ZK7AQFg.png" tvg-id="ElTrece.ar" group-title="Argentina",El Trece
@@ -38,7 +39,6 @@ http://190.3.108.42:8400/play/a0bc/index.m3u8
 
 #EXTINF:0,FOX Sports
 http://190.3.108.42:8400/play/a0e1/index.m3u8
-
 #EXTINF:0,tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports3.png",FOX Sports 3 HD
 http://190.3.108.42:8400/play/a02t/index.m3u8
 
@@ -99,6 +99,7 @@ https://d7.merichunidya.com:1686/hls/hdchnl2.m3u8?md5=GrDij8o7wgW11kKB-Dno6w&exp
 #EXTINF:-1 tvg-id="490e6a84-17e2-42bb-8725-66af0c067239" tvg-name="Bein Sports" tvg-logo="https://s3.aynaott.com/storage/04a56bc13c4c486ad4a4d82a1e00fd73" group-title="Sports",Bein Sports
 http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
+# Locales
 
 #EXTINF:0,tvg-logo="https://epeltvenvivo.weebly.com/uploads/1/3/2/2/132285843/ciudad_orig.png",Ciudad magazine HD
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
@@ -120,18 +121,13 @@ http://190.3.108.42:8400/play/a05c/index.m3u8
 http://45.5.151.62:8000/play/a029/index.m3u8
 #EXTINF:0,CNN en Español
 http://190.3.108.42:8400/play/a054/index.m3u8
-
-
 #EXTINF:0,tvg-logo="https://epeltvenvivo.weebly.com/uploads/1/3/2/2/132285843/cinear_orig.png",Cine.ar
 https://joy.nx-pc.edge-apps.net/hls/m6l52-i7flc-5bii9-70gkm.m3u8
 #EXTINF:0,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGgwC2NLKFI1gKBQj0cn4B_XkL38tsa8xM7EMtOALEXqqXKfZ4d3v-eoo&s=10",Volver
 http://190.3.108.42:8400/play/a021/index.m3u8
 
 
-
-
-
-
+# Japan
 
 #EXTINF:0,CGNTV Japan
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
@@ -141,7 +137,7 @@ http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:0,Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 
-# Lista china
+# Lista China
 
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/Gwij0Fj.png" tvg-id="TVB News",TVB News
 http://r.jdshipin.com/CkuBd
