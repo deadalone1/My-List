@@ -49,6 +49,7 @@ http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:0,Premier Sports 2
 https://cdn4.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
 
+
 # Nueva listas deportes
 
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -85,8 +86,6 @@ https://d9.merichunidya.com:1686/hls/skysare.m3u8?md5=WfBy46-KSN7W8-H6Twokig&exp
 https://d9.merichunidya.com:1686/hls/skysfor1.m3u8?md5=rqS_kzCW1S2na7eaFNuLsQ&expires=1766155280
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-
-
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/19-by-xfireflix.png" group-title="Sports",LaLiGA
 https://d5.merichunidya.com:1686/hls/laligauk.m3u8?md5=Nzd_YSP9FxBXt8QeX5Fldg&expires=1766155280
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -97,7 +96,6 @@ https://d9.merichunidya.com:1686/hls/premieruk.m3u8?md5=j1Bsxv2yszdiSNR6bKlveA&e
 #EXTVLCOPT:http-origin=https://profamouslife.com
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/31-by-xfireflix.png" group-title="Sports",Premier Sports 2
 https://d7.merichunidya.com:1686/hls/hdchnl2.m3u8?md5=GrDij8o7wgW11kKB-Dno6w&expires=1766155281
-
 #EXTINF:-1 tvg-id="490e6a84-17e2-42bb-8725-66af0c067239" tvg-name="Bein Sports" tvg-logo="https://s3.aynaott.com/storage/04a56bc13c4c486ad4a4d82a1e00fd73" group-title="Sports",Bein Sports
 http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
