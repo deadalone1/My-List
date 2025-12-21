@@ -6,6 +6,8 @@
 http://45.5.151.62:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="News",TN
 http://45.5.151.62:8000/play/a020/index.m3u8
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="News",TN b
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1766298139/ei/uz1HaaLvEdukobIPqai2iAM/ip/2800%3A810%3A853%3A819%3A20d4%3A705c%3A9387%3Aa6b1/id/cb12KmMMDJA.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3CwsqdJJ6M7hEOzwctJGqbzcQxvAyEThLFKrR0S6sdvFsoIOGoc5id8Kd5YjyGVAXlxAgA5ReTL/spc/wH4Qq_w8ch9tADlULeWGazmYW6Kx3jdQ-Fmw2SO5249VZ15eDWdo5JRH23wyrWVX5zo/vprv/1/go/1/ns/ngqCqsDxk6NQQW4XDJ18f3sR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/n/bIxP1bnYxqCx7qSmuF/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKJgOxUnIdiqQAr15RM9R9B_CVhlYpUXdOsMCWT9t-yMAiAgAmetc4BlRvpYmT-asFZDKpA_Dsyrh7E4Ur3FqUtAhw%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="News", A24
 http://45.5.151.62:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png", Cronica TV
@@ -73,12 +75,23 @@ http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 https://c822c659.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg" group-title="Sports",MIXER | ESPN
 http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 group-title="Bics MoveOnJoy US", ESPN 2
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 group-title="Bics MoveOnJoy US", ESPN U
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 group-title="Bics MoveOnJoy US", ESPN NETWORK
+http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Bics MoveOnJoy US", FOX SPORTS 1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 
 
 
 # UFC
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900017P2_20241125T235015SQUARE.png" group-title="Sports",FIGHT | UFC
 https://d4bw595q7gr11.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-akprg1v4e75t9/playlist.m3u8
+#EXTINF:-1 group-title="Bics MoveOnJoy US", UFC b
+http://fl1.moveonjoy.com/UFC/index.m3u8
+
 
 # Locales
 
