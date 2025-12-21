@@ -115,6 +115,26 @@ https://7pal.short.gy/tntspts2
 #EXTINF:-1 tvg-name="TNS Sports-3" group-title="SPORTS",TNS Sports-3
 https://7pal.short.gy/tntspts3
 
+#EXTINF:-1 tvg-id="SPORT.tr" tvg-name="LİG TV 1 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",LİG TV 1 HD
+https://dga1op10s1u3leo.dee79a8db16230.click/live/selcukobs1/playlist.m3u8
+#EXTINF:-1 tvg-id="SPORT.tr" tvg-name="LİG TV 2 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",LİG TV 2 HD
+https://andro.adece12.sbs/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1 tvg-id="SPORT.tr" tvg-name="LİG TV 3 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",LİG TV 3 HD
+https://andro.adece12.sbs/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 tvg-id="SPORT.tr" tvg-name="LİG TV 4 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",LİG TV 4 HD
+https://andro.adece12.sbs/checklist/androstreamlivebs4.m3u8
+#EXTINF:-1 tvg-id="SPORT.tr" tvg-name="LİG TV 5 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",LİG TV 5 HD
+https://andro.adece12.sbs/checklist/androstreamlivebs5.m3u8
+#EXTINF:-1 tvg-id="SPORT.tr" tvg-name="LİG TV Max 1 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",LİG TV MAX 1 HD
+https://andro.adece12.sbs/checklist/androstreamlivebsm1.m3u8
+#EXTINF:-1 tvg-id="SPORT.tr" tvg-name="EXXEN 1 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",EXXEN 1 HD
+https://andro.adece12.sbs/checklist/androstreamliveexn1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE TV
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/ekip.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LR2KqPJ/dbaispt.png",DUBAI SPORTS 1
+https://dmidspta.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/playlist.m3u?m3u8
+
+
 
 # UFC
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900017P2_20241125T235015SQUARE.png" group-title="Sports",FIGHT | UFC
@@ -149,6 +169,10 @@ http://190.3.108.42:8400/play/a021/index.m3u8
 
 # Japan
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JCjsXZm/nhk.png",NHK WORLD
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CH8JGfJ/cgtnes.png",CGTN ESPAÑOL
+http://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:0,CGNTV Japan
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="gaki_no_tsukai" tvg-logo="https://static.wikia.nocookie.net/gakinotsukai/images/0/0a/Gaki_no_Tsukai_Logo.png/revision/latest/scale-to-width-down/284?cb=20170831001539",Gaki no Tsukai
