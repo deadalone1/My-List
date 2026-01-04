@@ -2,7 +2,7 @@
 
 # Nacionales
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/ecaqMd4.png",LN+
+#EXTINF:-1 tvg-id="LNplus.ar" tvg-logo="https://i.imgur.com/ecaqMd4.png" group-title="News",LN+
 http://45.5.151.62:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="News",TN
 http://45.5.151.62:8000/play/a020/index.m3u8
@@ -23,7 +23,7 @@ https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNcCX3h.png",Telefe
 http://190.3.108.42:8400/play/a0e5/index.m3u8
 
-#EXTINF:0,TyC Sports 
+#EXTINF:0 tvg-logo="https://i.imgur.com/HNcCX3h.png",TyC Sports 
 https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1_1080p/index.m3u8
 #EXTINF:0,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", ESPN HD
 http://190.3.108.42:8400/play/a05a/index.m3u8
