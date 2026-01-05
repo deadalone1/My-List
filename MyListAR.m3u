@@ -202,6 +202,14 @@ http://190.3.108.42:8400/play/a054/index.m3u8
 https://joy.nx-pc.edge-apps.net/hls/m6l52-i7flc-5bii9-70gkm.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/iHYwNbr.png" group-title="ARG",Volver
 http://190.3.108.42:8400/play/a021/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="ARG",5TV
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="ARG",13Max
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="ARG",24/7
+https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="ARG",Argentinisima
+https://stream1.sersat.com/hls/argentinisima.m3u8
 
 
 # Japan
