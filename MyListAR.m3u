@@ -6,8 +6,6 @@
 http://45.5.151.62:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.imgur.com/FN0Q6W6.png" group-title="ARG",TN
 http://45.5.151.62:8000/play/a020/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FN0Q6W6.png" group-title="ARG",TN vivo
-https://www.youtube.com/c/todonoticias/live
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/FR0yt0E.png" group-title="ARG", A24
 http://45.5.151.62:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f6axxjt.png" group-title="ARG", Cronica TV
