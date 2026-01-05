@@ -25,19 +25,19 @@ http://190.3.108.42:8400/play/a0e5/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/epvQO1B.png" group-title="ARG",TyC Sports 
 https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1_1080p/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/ppYn6ma.png", ESPN
+#EXTINF:0 tvg-logo="https://i.imgur.com/ppYn6ma.png" group-title="Deportes", ESPN
 http://190.3.108.42:8400/play/a05a/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/wHwJZsI.png", ESPN 2
+#EXTINF:0 tvg-logo="https://i.imgur.com/wHwJZsI.png" group-title="Deportes", ESPN 2
 http://190.3.108.42:8400/play/a059/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/FIs0uDD.png", ESPN 3
+#EXTINF:0 tvg-logo="https://i.imgur.com/FIs0uDD.png" group-title="Deportes", ESPN 3
 http://190.3.108.42:8400/play/a05b/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/XNAslAn.png", ESPN 4
+#EXTINF:0 tvg-logo="https://i.imgur.com/XNAslAn.png" group-title="Deportes", ESPN 4
 http://190.3.108.42:8400/play/a0e0/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_05/957429272_ESPNPremium(10).png.7e3113a42aa7b7aff4df8c52a8022fa9.png", Espn Premium
+#EXTINF:0 tvg-logo="https://i.imgur.com/ZCE2iOB.png" group-title="Deportes", Espn Premium
 http://201.217.246.177:8000/play/a078/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/rxg1NDB.png",TNT Sports
+#EXTINF:0 tvg-logo="https://i.imgur.com/rxg1NDB.png" group-title="Deportes",TNT Sports
 http://190.3.108.42:8400/play/a0bc/index.m3u8
-#EXTINF:-1 tvg-id="75" tvg-name="TNT SPORTS" tvg-logo="https://i.imgur.com/TxdrTq0.png" group-title="Deportes",TNT SPORTS b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxdrTq0.png" group-title="Deportes",TNT SPORTS b
 http://179.51.136.19:8000/play/a0px/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/YKRbUOs.png" group-title="Deportes",FOX Sports
 http://190.3.108.42:8400/play/a0e1/index.m3u8
@@ -214,11 +214,11 @@ http://190.3.108.42:8400/play/a021/index.m3u8
 
 # Japan
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JCjsXZm/nhk.png" group-title="JAP",NHK WORLD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MN11nZ7.png" group-title="JAP",NHK WORLD
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
-#EXTINF:0 group-title="JAP",CGNTV Japan
+#EXTINF:0 tvg-logo="https://i.imgur.com/FNr9IWG.png" group-title="JAP",CGNTV Japan
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/huXFL3A.png" group-title="JAP",BS Asahi (544p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mZPN4U2.png" group-title="JAP",BS Asahi (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aDdwjjc.png" group-title="JAP",BS Fuji TV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
@@ -226,9 +226,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
 
 
-#EXTINF:0 group-title="JAP",日本QVC Japan
+#EXTINF:0 tvg-logo="https://i.imgur.com/G28HGdb.png" group-title="JAP",日本QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-#EXTINF:0 group-title="JAP",Shop Channel
+#EXTINF:0 tvg-logo="https://i.imgur.com/LSD1vE2.png" group-title="JAP",Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 
 # Lista China
