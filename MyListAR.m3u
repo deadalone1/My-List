@@ -187,25 +187,25 @@ https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 # Locales
 
-#EXTINF:0,tvg-logo="https://epeltvenvivo.weebly.com/uploads/1/3/2/2/132285843/ciudad_orig.png" group-title="ARG",Ciudad magazine HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/jDMJvAK.png" group-title="ARG",Ciudad magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-#EXTINF:0,tvg-logo="https://epeltvenvivo.weebly.com/uploads/1/3/2/2/132285843/published/nettv.png?1590345795" group-title="ARG", NET HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/r5D82Q6.png" group-title="ARG", NET TV
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:0,tvg-logo="https://epeltvenvivo.weebly.com/uploads/1/3/2/2/132285843/26_orig.png" group-title="ARG",Canal 26
+#EXTINF:0 tvg-logo="https://i.imgur.com/2MctccV.png" group-title="ARG",Canal 26
 http://45.5.151.62:8000/play/a028/index.m3u8
-#EXTINF:0,tvg-logo="https://epeltvenvivo.weebly.com/uploads/1/3/2/2/132285843/c5n_orig.png",C5N
+#EXTINF:0 tvg-logo="https://i.imgur.com/Ks3BBDY.png" group-title="ARG",C5N
 http://45.5.151.62:8000/play/a023/index.m3u8
-#EXTINF:0 group-title="ARG",Bravo TV
+#EXTINF:0 tvg-logo="https://i.imgur.com/GqAuxm9.png" group-title="ARG",Bravo TV
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
-#EXTINF:0 group-title="ARG",AR12
+#EXTINF:0 tvg-logo="https://i.imgur.com/jeKn0f4.png" group-title="ARG",AR12
 https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA__24.5ARGENTINA1
-#EXTINF:0 group-title="ARG",Multivision
+#EXTINF:0 tvg-logo="https://i.imgur.com/Z5ZHuM6.png" group-title="ARG",Multivision
 http://45.5.151.62:8000/play/a029/index.m3u8
 #EXTINF:0,CNN en Español
 http://190.3.108.42:8400/play/a054/index.m3u8
-#EXTINF:0,tvg-logo="https://epeltvenvivo.weebly.com/uploads/1/3/2/2/132285843/cinear_orig.png" group-title="ARG",Cine.ar
+#EXTINF:0 tvg-logo="https://i.imgur.com/yZtikA1.png" group-title="ARG",Cine.ar
 https://joy.nx-pc.edge-apps.net/hls/m6l52-i7flc-5bii9-70gkm.m3u8
-#EXTINF:0,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGgwC2NLKFI1gKBQj0cn4B_XkL38tsa8xM7EMtOALEXqqXKfZ4d3v-eoo&s=10" group-title="ARG",Volver
+#EXTINF:0 tvg-logo="https://i.imgur.com/iHYwNbr.png" group-title="ARG",Volver
 http://190.3.108.42:8400/play/a021/index.m3u8
 
 
