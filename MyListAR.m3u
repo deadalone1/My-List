@@ -99,9 +99,9 @@ http://205.235.6.29:8000/play/a0vk/index.m3u8
 https://7pal.short.gy/prsport1
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="SPORTS",Premier Sports-2
 https://7pal.short.gy/prsport2
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Eurosport_1_%28II%29.svg" group-title="Sports",Euro Sport 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LUnB02J.png" group-title="Sports",Euro Sport 1
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Eurosport_2_%28II%29.svg" group-title="Sports",Euro Sport 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/umZTtjM.png" group-title="Sports",Euro Sport 2
 http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg" group-title="Sports",ESPN
 http://41.205.93.154/ESPN/index.m3u8
@@ -148,35 +148,37 @@ https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/788.m3u8
 #EXTINF:-1 tvg-id="PROSportInternational.my@SD" tvg-logo="https://i.postimg.cc/7hjCP4mf/PROSport-International.png" group-title="Sports",PRO Sport International
 https://proshls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="538b24c3-9493-44d5-be7c-482b51734f2c" tvg-name="Xtrem Sports" tvg-logo="https://s3.aynaott.com/storage/e1749cf3040f11c63e722c941f213927" group-title="Sports",Xtrem Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i0Etu7Y.png" group-title="Sports",Xtrem Sports
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
-#EXTINF:-1 tvg-id="83" tvg-name="Redbull TV" tvg-logo="https://i.imgur.com/redbull-logo.png" group-title="Deportes",Redbull TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOu8GVi.png" group-title="Sports",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN270000230_20250514T004921SQUARE.png" group-title="Sports",FB | FIFA+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/weIp48q.png" group-title="Sports" group-title="Sports",FIFA+
 https://c822c659.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk@Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png" group-title="Sports",FIFA+ Spain (720p)
+#EXTINF:-1 tvg-id="FIFAPlus.uk@Spain" tvg-logo="https://i.imgur.com/ebSmcGk.png" group-title="Sports",FIFA+ Spain
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 
+
 # UFC
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900017P2_20241125T235015SQUARE.png" group-title="Sports",FIGHT | UFC
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i7VHXzF.png" group-title="Fight",FIGHT | UFC
 https://d4bw595q7gr11.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-akprg1v4e75t9/playlist.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", UFC b
-http://fl1.moveonjoy.com/UFC/index.m3u8
-#EXTINF:-1,FIGHTKLUB
+# #EXTINF:-1 group-title="Fight", UFC b
+# http://fl1.moveonjoy.com/UFC/index.m3u8
+#EXTINF:-1 group-title="Fight",FIGHTKLUB
 https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/866.m3u8
-# #EXTINF:-1,FIGHTBOX
+# #EXTINF:-1 group-title="Fight",FIGHTBOX
 # https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/868.m3u8
-#EXTINF:-1 tvg-id="DAZNCombat.uk@Poland" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="Sports",DAZN Combat
+#EXTINF:-1 tvg-id="DAZNCombat.uk@Poland" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="Fight",DAZN Combat
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",DAZN Ringside
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WG80THP.png" group-title="Fight",DAZN Ringside
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/649b6898f2ec0000081a9460/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c43-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a1e2a534-715c-495d-a4f3-2d56a6177548
-#EXTINF:-1 tvg-id="BellatorMMA.us@SD" tvg-logo="https://i.imgur.com/VBKoLHk.png" group-title="Sports",Bellator MMA
+#EXTINF:-1 tvg-id="BellatorMMA.us@SD" tvg-logo="https://i.imgur.com/VBKoLHk.png" group-title="Fight",Bellator MMA
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e97a69e-3355-4217-b6fb-8952f0ad1803
-#EXTINF:-1 tvg-id="FITE247.us@SD" tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="Sports",FITE 24/7 (1080p)
+#EXTINF:-1 tvg-id="FITE247.us@SD" tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="Fight",FITE 24/7 (1080p)
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
-#EXTINF:-1 tvg-id="GloryKickboxing.us@US" tvg-logo="https://i.imgur.com/tS7Ub7i.png" group-title="Sports",Glory Kickboxing
+#EXTINF:-1 tvg-id="GloryKickboxing.us@US" tvg-logo="https://i.imgur.com/tS7Ub7i.png" group-title="Fight",Glory Kickboxing
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f178-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df3ca9c7-d700-4719-be3f-74dd169206f8
-#EXTINF:-1 tvg-id="Stadium.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png" group-title="Sports",Stadium (720p)
+#EXTINF:-1 tvg-id="Stadium.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png" group-title="Fight",Stadium
 https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8
 #EXTINF:-1 tvg-id="Strongman.us@UK" tvg-logo="https://i.imgur.com/bVQBF6R.png" group-title="Sports",Strongman (720p)
 https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -201,9 +203,9 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA__24.5ARGENTINA1
 #EXTINF:0 tvg-logo="https://i.imgur.com/Z5ZHuM6.png" group-title="ARG",Multivision
 http://45.5.151.62:8000/play/a029/index.m3u8
-#EXTINF:0,CNN en Español
+#EXTINF:0 tvg-logo="https://i.imgur.com/C7X7K3L.png" group-title="ARG",CNN en Español
 http://190.3.108.42:8400/play/a054/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/yZtikA1.png" group-title="ARG",Cine.ar
+#EXTINF:0 tvg-logo="https://i.imgur.com/aJvFpDy.png" group-title="ARG",Cine.ar
 https://joy.nx-pc.edge-apps.net/hls/m6l52-i7flc-5bii9-70gkm.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/iHYwNbr.png" group-title="ARG",Volver
 http://190.3.108.42:8400/play/a021/index.m3u8
