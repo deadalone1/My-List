@@ -2,7 +2,7 @@
 
 # Nacionales
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ULm0aFt.png" group-title="ARG",LN+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L5abNc3.png" group-title="ARG",LN+
 http://45.5.151.62:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FN0Q6W6.png" group-title="ARG",TN
 http://45.5.151.62:8000/play/a020/index.m3u8
@@ -18,12 +18,10 @@ http://190.3.108.42:8400/play/a0e3/index.m3u8
 http://190.3.108.42:8400/play/a04h/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZCiLa4C.png" group-title="ARG", TV Publica
 https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9.m3u8
-# #EXTINF:-1 tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="ARG",Telefe
-# https://ssl.cloud.telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="ARG",Telefe
 http://190.3.108.42:8400/play/a0e5/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/epvQO1B.png" group-title="ARG",TyC Sports 
+#EXTINF:0 tvg-logo="https://i.imgur.com/epvQO1B.png" group-title="Deportes",TyC Sports 
 https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1_1080p/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/ppYn6ma.png" group-title="Deportes", ESPN
 http://190.3.108.42:8400/play/a05a/index.m3u8
@@ -62,8 +60,8 @@ http://181.78.82.6:46090/play/a00w/index.m3u8
 http://181.119.86.68:8000/play/b029/index.m3u8
 # http://181.205.130.194:4000/play/a07s
 
-# #EXTINF:-1,ESPN DEPORTES
-# https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/763.m3u8
+#EXTINF:-1,ESPN DEPORTES
+https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/763.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pm2i292.png" group-title="Deportes", Sky Sports Premier League
 https://7pal.short.gy/ssportspl
@@ -81,7 +79,7 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 # #EXTINF:-1,SKY SPORTS
 # http://181.78.106.127:9000/play/ca030/index.m3u8
 
-#EXTINF:-1,Sky Sport Uno
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PZJFdjD.png" group-title="Deportes",Sky Sport Uno
 https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/765.m3u8
 #EXTINF:-1, SKY SPORT 1
 https://a1xs.vip/120002
@@ -92,9 +90,9 @@ http://45.184.87.142:8000/play/a04d
 http://45.5.117.57:8999/play/a05m/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/08tNtlS.png" group-title="Deportes",CLARO SPORTS 2
 http://45.5.117.57:8999/play/a05n/index.m3u8
-#EXTINF:-1,TUDN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EqSFCdZ.png" group-title="Deportes",TUDN
 http://181.78.106.127:9000/play/ca036/index.m3u8
-#EXTINF:-1,TIGO SPORTS
+#EXTINF:-1  tvg-logo="https://i.imgur.com/23VGOW7.png" group-title="Deportes",TIGO SPORTS
 http://45.5.117.57:8999/play/a03a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BD7elVX.png" group-title="SPORTS",FOX SPORTS PREMIUM
 http://205.235.6.29:8000/play/a0vk/index.m3u8
@@ -122,11 +120,11 @@ https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 http://178.23.88.55/Sport1/index.m3u8
 # #EXTINF:-1 tvg-name="Bein Sports 1 True Vision üéØ" group-title="Football",Bein Sports 1 True Vision
 # https://ww.dooballfree.vip/live/bein1/playlist.m3u8
-#EXTINF:-1 tvg-name="TNS Sports-1" group-title="SPORTS",TNT Sports-1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZXFRwAS.png" group-title="Deportes",TNT Sports-1
 https://7pal.short.gy/tntspts1
-#EXTINF:-1 tvg-name="TNS Sports-2" group-title="SPORTS",TNT Sports-2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8zuDxWw.png" group-title="Deportes",TNT Sports-2
 https://7pal.short.gy/tntspts2
-#EXTINF:-1 tvg-name="TNS Sports-3" group-title="SPORTS",TNT Sports-3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pSLhs3i.png" group-title="Deportes",TNT Sports-3
 https://7pal.short.gy/tntspts3
 
 
@@ -150,14 +148,14 @@ https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/788.m3u8
 http://181.78.106.127:9000/play/ca027/index.m3u8
 #EXTINF:-1 tvg-id="PROSportInternational.my@SD" tvg-logo="https://i.postimg.cc/7hjCP4mf/PROSport-International.png" group-title="Sports",PRO Sport International
 https://proshls.wns.live/hls/stream.m3u8
-#EXTINF:-1, AYM SPORT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ryMaepl.png" group-title="Deportes", AYM SPORT
 https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Football" tvg-logo="" group-title="Football" ,Russia Football 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fe8rI2q.png" group-title="Deportes",Match TV Russia 1
 http://cdntv.online/low/9mlxywika2/55.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football" tvg-logo="" group-title="Football" ,Russia Football 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fe8rI2q.png" group-title="Deportes",Match TV Russia 2
 http://cdntv.online/low/9mlxywika2/56.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football" tvg-logo="" group-title="Football" ,Russia Football 3 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fe8rI2q.png" group-title="Deportes",Match TV Russia 3
 http://cdntv.online/low/9mlxywika2/57.m3u8
 
 #EXTINF:-1,Arena Sport
@@ -226,11 +224,9 @@ https://joy.nx-pc.edge-apps.net/hls/m6l52-i7flc-5bii9-70gkm.m3u8
 http://190.3.108.42:8400/play/a021/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="ARG",5TV
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="ARG",13Max
+#EXTINF:0 tvg-logo="https://i.imgur.com/hPV8xwS.png" group-title="ARG",13Max
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="ARG",24/7
-https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="ARG",Argentinisima
+#EXTINF:0 tvg-logo="https://i.imgur.com/FqHlihG.png" group-title="ARG",Argentinisima
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
 
