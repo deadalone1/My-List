@@ -47,15 +47,20 @@ http://190.3.108.42:8400/play/a05c/index.m3u8
 http://190.3.108.42:8400/play/a02t/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wwc3unf.png" group-title="Deportes",DSPORTS
 http://201.230.121.85:8000/play/a0yv/index.m3u8
+#EXTINF:-1,DSPORTS
+http://201.230.121.85:8000/play/a0yv/index.m3u8
 # #EXTINF:-1 tvg-logo="https://i.imgur.com/wwc3unf.png" group-title="Deportes",DSPORTS
 # http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
 
 #EXTINF:-1 tvg-id="lch5615" tvg-name="ESPN 4 HD" tvg-logo="https://i.imgur.com/8HOGFIJ.png" group-title="Deportes", ESPN 5
-http://38.41.8.1:8000/play/a07b
+http://45.5.117.57:8999/play/a04f/index.m3u8
+# http://38.41.8.1:8000/play/a07b
 #EXTINF:-1 group-title="Deportes" language="Español" tvg-logo="https://i.imgur.com/nuDXTk8.png",ESPN 6
-http://190.14.10.19:16000/play/a07u/index.m3u8
+http://181.78.82.6:46090/play/a00w/index.m3u8
+# http://190.14.10.19:16000/play/a07u/index.m3u8
 #EXTINF:-1 group-title="Deportes" language="Español" tvg-logo="https://i.imgur.com/JhLRW3h.png",ESPN 7
-http://181.205.130.194:4000/play/a07s
+http://181.119.86.68:8000/play/b029/index.m3u8
+# http://181.205.130.194:4000/play/a07s
 
 # #EXTINF:-1,ESPN DEPORTES
 # https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/763.m3u8
@@ -78,7 +83,8 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1,Sky Sport Uno
 https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/765.m3u8
-
+#EXTINF:-1, SKY SPORT 1
+https://a1xs.vip/120002
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tuyRcTn.png" group-title="Deportes",WIN SPORTS +
 http://45.184.87.142:8000/play/a04d
@@ -86,8 +92,10 @@ http://45.184.87.142:8000/play/a04d
 http://45.5.117.57:8999/play/a05m/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/08tNtlS.png" group-title="Deportes",CLARO SPORTS 2
 http://45.5.117.57:8999/play/a05n/index.m3u8
-# #EXTINF:-1,TUDN
-# http://190.14.10.19:16000/play/a09v/index.m3u8
+#EXTINF:-1,TUDN
+http://181.78.106.127:9000/play/ca036/index.m3u8
+#EXTINF:-1,TIGO SPORTS
+http://45.5.117.57:8999/play/a03a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BD7elVX.png" group-title="SPORTS",FOX SPORTS PREMIUM
 http://205.235.6.29:8000/play/a0vk/index.m3u8
 
@@ -138,9 +146,22 @@ https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/787.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sswD0a1.png" group-title="Sports",DAZN 5
 https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/788.m3u8
 
+#EXTINF:-1,MOVISTAR LA LIG
+http://181.78.106.127:9000/play/ca027/index.m3u8
 #EXTINF:-1 tvg-id="PROSportInternational.my@SD" tvg-logo="https://i.postimg.cc/7hjCP4mf/PROSport-International.png" group-title="Sports",PRO Sport International
 https://proshls.wns.live/hls/stream.m3u8
+#EXTINF:-1, AYM SPORT
+https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Football" tvg-logo="" group-title="Football" ,Russia Football 1 HD
+http://cdntv.online/low/9mlxywika2/55.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football" tvg-logo="" group-title="Football" ,Russia Football 2 HD
+http://cdntv.online/low/9mlxywika2/56.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football" tvg-logo="" group-title="Football" ,Russia Football 3 HD
+http://cdntv.online/low/9mlxywika2/57.m3u8
+
+#EXTINF:-1,Arena Sport
+http://178.23.88.55/Arena_sport/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i0Etu7Y.png" group-title="Sports",Xtrem Sports
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZOu8GVi.png" group-title="Sports",Redbull TV
@@ -149,7 +170,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://c822c659.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@Spain" tvg-logo="https://i.imgur.com/ebSmcGk.png" group-title="Sports",FIFA+ Spain
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
-
+#EXTINF:-1 group-title="Sports",Gol Classics
+https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
 
 # UFC
 
