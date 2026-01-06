@@ -2,21 +2,21 @@
 
 # Nacionales
 
-#EXTINF:-1 tvg-id="LNplus.ar" tvg-logo="https://i.imgur.com/ULm0aFt.png" group-title="ARG",LN+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ULm0aFt.png" group-title="ARG",LN+
 http://45.5.151.62:8000/play/a025/index.m3u8
-#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.imgur.com/FN0Q6W6.png" group-title="ARG",TN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FN0Q6W6.png" group-title="ARG",TN
 http://45.5.151.62:8000/play/a020/index.m3u8
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/FR0yt0E.png" group-title="ARG", A24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FR0yt0E.png" group-title="ARG", A24
 http://45.5.151.62:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f6axxjt.png" group-title="ARG", Cronica TV
 http://45.5.151.62:8000/play/a024/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U7GB7kl.png" group-title="ARG", America TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-#EXTINF:-1 tvg-name="El Trece" tvg-logo="https://i.imgur.com/MZjsRvx.png" tvg-id="ElTrece.ar" group-title="ARG",El Trece
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MZjsRvx.png" group-title="ARG",El Trece
 http://190.3.108.42:8400/play/a0e3/index.m3u8
-#EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://i.imgur.com/2A3Wu7C.png" group-title="ARG", El Nueve
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2A3Wu7C.png" group-title="ARG", El Nueve
 http://190.3.108.42:8400/play/a04h/index.m3u8
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://i.imgur.com/ZCiLa4C.png" group-title="ARG", TV Publica
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZCiLa4C.png" group-title="ARG", TV Publica
 https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9.m3u8
 # #EXTINF:-1 tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="ARG",Telefe
 # https://ssl.cloud.telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
