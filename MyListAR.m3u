@@ -173,6 +173,33 @@ https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
 http://dvr1.kablova.tv/M4/index.m3u8
 #EXTINF:-1 , MAX SPORTS 3 HD
 http://77.46.130.252:99/maxsport3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/NowSportspl.webp" group-title="Deportes",Now Sports PL 1
+https://a1xs.vip/1100001
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsplus.webp" group-title="Deportes",Sky Sport+
+https://a1xs.vip/2000012
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/elevensport1.png" group-title="Deportes",❖ Eleven Sports 1
+http://45.87.35.12:7113/stream
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/elevensport2.png" group-title="Deportes",❖ Eleven Sports 2
+http://45.87.35.12:7114/stream
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/elevensport3.png" group-title="Deportes",❖ Eleven Sports 3
+http://45.87.35.12:7115/stream
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/elevensport4.png" group-title="Deportes",❖ Eleven Sports 4
+http://45.87.35.12:7116/stream
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysport.png" group-title="Deportes",❖ SKYSPORT 1
+https://a1xs.vip/700031
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysport.png" group-title="Desportos",❖ SKYSPORT 2
+https://a1xs.vip/700032
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysport.png" group-title="Desportos",❖ SKYSPORT 5
+https://a1xs.vip/700035
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysport.png" group-title="Desportos",❖ SKYSPORT 6
+https://a1xs.vip/700036
+#EXTINF:-1 tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport.png" group-title="Desportos",❖ Digi Sport 1
+https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
+#EXTINF:-1 tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport.png" group-title="Desportos",❖ Digi Sport 2
+http://103.161.35.76/RO-116/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arenapremium1.webp" group-title="Desportos",❖ Arena 1 Premium
+https://hls8.ua3.wisp.cat/Arena_Sport_Premium_1/video.m3u8?token=JYtCLkiUhf
+
 
 
 # UFC
