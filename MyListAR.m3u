@@ -169,6 +169,12 @@ https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Strongman.us@Germany" tvg-logo="https://i.imgur.com/bVQBF6R.png" group-title="Sports",Strongman Champions League (720p)
 https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 ,M4 SPORTS
+http://dvr1.kablova.tv/M4/index.m3u8
+#EXTINF:-1 , MAX SPORTS 3 HD
+http://77.46.130.252:99/maxsport3
+
+
 # UFC
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i7VHXzF.png" group-title="Fight",FIGHT | UFC
