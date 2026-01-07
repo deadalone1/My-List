@@ -164,6 +164,10 @@ https://c822c659.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Gol Classics
 https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
+#EXTINF:-1 tvg-id="Strongman.us@UK" tvg-logo="https://i.imgur.com/bVQBF6R.png" group-title="Sports",Strongman (720p)
+https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Strongman.us@Germany" tvg-logo="https://i.imgur.com/bVQBF6R.png" group-title="Sports",Strongman Champions League (720p)
+https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 # UFC
 
@@ -185,14 +189,15 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 #EXTINF:-1 tvg-id="GloryKickboxing.us@US" tvg-logo="https://i.imgur.com/tS7Ub7i.png" group-title="Fight",Glory Kickboxing
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f178-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df3ca9c7-d700-4719-be3f-74dd169206f8
-#EXTINF:-1 tvg-id="Stadium.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png" group-title="Fight",Stadium
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png" group-title="Fight",Stadium
 https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8
-#EXTINF:-1 tvg-id="Strongman.us@UK" tvg-logo="https://i.imgur.com/bVQBF6R.png" group-title="Sports",Strongman (720p)
-https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Strongman.us@Germany" tvg-logo="https://i.imgur.com/bVQBF6R.png" group-title="Sports",Strongman Champions League (720p)
-https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49952_dark_360w_270h.png" group-title="Fight",Sportsnet 360
+http://cord-cutter.net:8080/30550113/30550113/57299
 
-
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68859_dark_360w_270h.png" group-title="Sports",Sportsnet One
+http://cord-cutter.net:8080/30550113/30550113/10247
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26028_dark_360w_270h.png" group-title="Sports",SportsNet Pittsburgh
+http://cord-cutter.net:8080/30550113/30550113/108178
 
 # Locales
 
