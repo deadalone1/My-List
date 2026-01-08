@@ -5,6 +5,8 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ysg8Ikj.png" group-title="ARG",LN+
 http://45.5.151.62:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FN0Q6W6.png" group-title="ARG",TN
+#EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
 # http://45.5.151.62:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FR0yt0E.png" group-title="ARG", A24
