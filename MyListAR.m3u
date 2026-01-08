@@ -5,7 +5,8 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ysg8Ikj.png" group-title="ARG",LN+
 http://45.5.151.62:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FN0Q6W6.png" group-title="ARG",TN
-http://45.5.151.62:8000/play/a020/index.m3u8
+https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
+# http://45.5.151.62:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FR0yt0E.png" group-title="ARG", A24
 http://45.5.151.62:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f6axxjt.png" group-title="ARG", Cronica TV
@@ -247,19 +248,25 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 # https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA__24.5ARGENTINA1
 #EXTINF:0 tvg-logo="https://i.imgur.com/Z5ZHuM6.png" group-title="ARG",Multivision
 http://45.5.151.62:8000/play/a029/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/C7X7K3L.png" group-title="ARG",CNN en Español
-http://190.3.108.42:8400/play/a054/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/aJvFpDy.png" group-title="ARG",Cine.ar
 https://joy.nx-pc.edge-apps.net/hls/m6l52-i7flc-5bii9-70gkm.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/iHYwNbr.png" group-title="ARG",Volver
 http://190.3.108.42:8400/play/a021/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="ARG",5TV
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/gb2iih.png" group-title="ARG",Unife TV
+https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/hPV8xwS.png" group-title="ARG",13Max
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/FqHlihG.png" group-title="ARG",Argentinisima
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png" group-title="ARG",RT en Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/C7X7K3L.png" group-title="ARG",CNN en Español
+http://190.3.108.42:8400/play/a054/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TeleSUR.png" group-title="ARG",TeleSUR
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 
 # Japan
 
