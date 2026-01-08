@@ -207,8 +207,8 @@ https://a1xs.vip/120002
 https://d4bw595q7gr11.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-akprg1v4e75t9/playlist.m3u8
 # #EXTINF:-1 group-title="Fight", UFC b
 # http://fl1.moveonjoy.com/UFC/index.m3u8
-#EXTINF:-1 group-title="Fight",FIGHTKLUB
-https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/866.m3u8
+# #EXTINF:-1 group-title="Fight",FIGHTKLUB
+# https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/866.m3u8
 # #EXTINF:-1 group-title="Fight",FIGHTBOX
 # https://tv-max4k-us.aayushmansinghrajpurohit95.workers.dev/868.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="Fight",DAZN Combat
@@ -221,7 +221,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tS7Ub7i.png" group-title="Fight",Glory Kickboxing
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f178-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df3ca9c7-d700-4719-be3f-74dd169206f8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png" group-title="Fight",Stadium
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IqWjmXz.png" group-title="Fight",Stadium
 https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49952_dark_360w_270h.png" group-title="Fight",Sportsnet 360
 http://cord-cutter.net:8080/30550113/30550113/57299
