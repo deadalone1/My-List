@@ -182,6 +182,9 @@ http://103.161.35.76/RO-116/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arenapremium1.webp" group-title="Desportos",❖ Arena 1 Premium
 https://hls8.ua3.wisp.cat/Arena_Sport_Premium_1/video.m3u8?token=JYtCLkiUhf
 
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-24-live.jpg",SPORT ITALIA CALCIO
+https://origin-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
+
 # #EXTINF:-1 tvg-logo="https://i.imgur.com/EqSFCdZ.png" group-title="Deportes",TUDN
 # http://181.78.106.127:9000/play/ca036/index.m3u8
 
