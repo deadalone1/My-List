@@ -1,11 +1,11 @@
 #EXTM3U 
 
 
-#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="News",TN
-http://45.5.151.62:8000/play/a020/index.m3u8
-#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://i.imgur.com/Gj1kqH5.png" group-title="General",La Nacion +
+#EXTINF:-1 tvg-id="LN+.ar" tvg-logo="https://i.imgur.com/ysg8Ikj.png" group-title="ARG",LN+
 http://45.5.151.62:8000/play/a025/index.m3u8
-#EXTINF:-1, A24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FN0Q6W6.png" group-title="ARG",TN
+http://45.5.151.62:8000/play/a020/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FR0yt0E.png" group-title="ARG", A24
 http://45.5.151.62:8000/play/a021/index.m3u8
 
 #EXTINF:-1 tvg-id="telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="General",TELEFE
